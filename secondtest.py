@@ -24,7 +24,7 @@ mls = load_league('stadiumdata/mls_stadiums.json', 'venues', 'team', 'coordinate
 wnba = load_league('stadiumdata/wnba_stadiums.json', 'venues', 'team', 'coordinates.latitude', 'coordinates.longitude', 'WNBA')
 
 # Combine all leagues into one DataFrame
-df = pd.concat([nba, nfl, mlb, nhl, mls, wnba], ignore_index=True)
+lg = pd.concat([nba, nfl, mlb, nhl, mls, wnba], ignore_index=True)
 
 # Vectorized haversine distance
 def haversine_vectorized(lat1, lon1, lat2, lon2):
@@ -35,9 +35,10 @@ def haversine_vectorized(lat1, lon1, lat2, lon2):
     a = np.sin(dphi/2)**2 + np.cos(phi1) * np.cos(phi2) * np.sin(dlambda/2)**2
     return np.round(2 * R * np.arcsin(np.sqrt(a)), 3)
 
-# Ask user for a reference NBA team
-team_name = input("Enter an NBA team name: ")
-row = df.loc[(df['team'] == team_name) & (df['league'] == 'NBA')]
+# Ask user for a reference NFL team
+lg_name = input("Enter a league (NBA, NFL, MLB, NHL, MLS, WNBA): ")
+team_name = input(f"Enter the {lg_name} team name: ")
+row = lg.loc[(lg['team'] == team_name) & (lg['league'] == lg_name)]
 
 if row.empty:
     print(f"Team '{team_name}' not found. Check spelling and try again.")
@@ -45,17 +46,18 @@ else:
     ref_lat = row['lat'].values[0]
     ref_lon = row['lon'].values[0]
 
-    df['miles_from_ref'] = haversine_vectorized(ref_lat, ref_lon, df['lat'], df['lon'])
+    lg['distance'] = haversine_vectorized(ref_lat, ref_lon, lg['lat'], lg['lon'])
 
     print(f"\nClosest teams to {team_name} by league:")
     results = (
-        df[['league', 'team', 'miles_from_ref']]
-        .sort_values('miles_from_ref')
+        lg[['league', 'team', 'distance']]
+        .sort_values('distance')
         .groupby('league')
-        .head(2)
-        .sort_values(['league', 'miles_from_ref'])
+        .head(1)
+        .sort_values(['league', 'distance'])
     )
     for league, group in results.groupby('league'):
-        print(f"\n{league}")
-        print(group[['team', 'miles_from_ref']].to_string(index=False))
+        if league != lg_name:
+            print(f"\n{league}")
+            print(group[['team', 'distance']].to_string(index=False))
 
