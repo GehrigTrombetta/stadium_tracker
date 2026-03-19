@@ -1,0 +1,398 @@
+{
+  "league": "NBA",
+  "season": "2025-26",
+  "generated": "2026-03-19",
+  "count": 30,
+  "venues": [
+    {
+      "team": "Atlanta Hawks",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "arena": "State Farm Arena",
+      "city": "Atlanta",
+      "state_province": "GA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.7573,
+        "longitude": -84.3963
+      }
+    },
+    {
+      "team": "Boston Celtics",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "TD Garden",
+      "city": "Boston",
+      "state_province": "MA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.3662,
+        "longitude": -71.0621
+      }
+    },
+    {
+      "team": "Brooklyn Nets",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Barclays Center",
+      "city": "Brooklyn",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.6826,
+        "longitude": -73.9754
+      }
+    },
+    {
+      "team": "Charlotte Hornets",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "arena": "Spectrum Center",
+      "city": "Charlotte",
+      "state_province": "NC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 35.2251,
+        "longitude": -80.8392
+      }
+    },
+    {
+      "team": "Chicago Bulls",
+      "conference": "Eastern",
+      "division": "Central",
+      "arena": "United Center",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.8806,
+        "longitude": -87.6742
+      }
+    },
+    {
+      "team": "Cleveland Cavaliers",
+      "conference": "Eastern",
+      "division": "Central",
+      "arena": "Rocket Arena",
+      "city": "Cleveland",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.4965,
+        "longitude": -81.6882
+      }
+    },
+    {
+      "team": "Dallas Mavericks",
+      "conference": "Western",
+      "division": "Southwest",
+      "arena": "American Airlines Center",
+      "city": "Dallas",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7905,
+        "longitude": -96.8103
+      }
+    },
+    {
+      "team": "Denver Nuggets",
+      "conference": "Western",
+      "division": "Northwest",
+      "arena": "Ball Arena",
+      "city": "Denver",
+      "state_province": "CO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.7487,
+        "longitude": -105.0077
+      }
+    },
+    {
+      "team": "Detroit Pistons",
+      "conference": "Eastern",
+      "division": "Central",
+      "arena": "Little Caesars Arena",
+      "city": "Detroit",
+      "state_province": "MI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.341,
+        "longitude": -83.0553
+      }
+    },
+    {
+      "team": "Golden State Warriors",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Chase Center",
+      "city": "San Francisco",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 37.768,
+        "longitude": -122.3878
+      }
+    },
+    {
+      "team": "Houston Rockets",
+      "conference": "Western",
+      "division": "Southwest",
+      "arena": "Toyota Center",
+      "city": "Houston",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 29.7509,
+        "longitude": -95.3621
+      }
+    },
+    {
+      "team": "Indiana Pacers",
+      "conference": "Eastern",
+      "division": "Central",
+      "arena": "Gainbridge Fieldhouse",
+      "city": "Indianapolis",
+      "state_province": "IN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.7639,
+        "longitude": -86.1558
+      }
+    },
+    {
+      "team": "LA Clippers",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Intuit Dome",
+      "city": "Inglewood",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.9438,
+        "longitude": -118.3426
+      }
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Crypto.com Arena",
+      "city": "Los Angeles",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 34.0431,
+        "longitude": -118.2676
+      }
+    },
+    {
+      "team": "Memphis Grizzlies",
+      "conference": "Western",
+      "division": "Southwest",
+      "arena": "FedExForum",
+      "city": "Memphis",
+      "state_province": "TN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 35.1383,
+        "longitude": -90.0505
+      }
+    },
+    {
+      "team": "Miami Heat",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "arena": "Kaseya Center",
+      "city": "Miami",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 25.7814,
+        "longitude": -80.187
+      }
+    },
+    {
+      "team": "Milwaukee Bucks",
+      "conference": "Eastern",
+      "division": "Central",
+      "arena": "Fiserv Forum",
+      "city": "Milwaukee",
+      "state_province": "WI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 43.0451,
+        "longitude": -87.917
+      }
+    },
+    {
+      "team": "Minnesota Timberwolves",
+      "conference": "Western",
+      "division": "Northwest",
+      "arena": "Target Center",
+      "city": "Minneapolis",
+      "state_province": "MN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 44.9796,
+        "longitude": -93.2766
+      }
+    },
+    {
+      "team": "New Orleans Pelicans",
+      "conference": "Western",
+      "division": "Southwest",
+      "arena": "Smoothie King Center",
+      "city": "New Orleans",
+      "state_province": "LA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 29.949,
+        "longitude": -90.082
+      }
+    },
+    {
+      "team": "New York Knicks",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Madison Square Garden",
+      "city": "New York",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7505,
+        "longitude": -73.9934
+      }
+    },
+    {
+      "team": "Oklahoma City Thunder",
+      "conference": "Western",
+      "division": "Northwest",
+      "arena": "Paycom Center",
+      "city": "Oklahoma City",
+      "state_province": "OK",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 35.4634,
+        "longitude": -97.5151
+      }
+    },
+    {
+      "team": "Orlando Magic",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "arena": "Kia Center",
+      "city": "Orlando",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 28.5392,
+        "longitude": -81.3839
+      }
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Wells Fargo Center",
+      "city": "Philadelphia",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9012,
+        "longitude": -75.172
+      }
+    },
+    {
+      "team": "Phoenix Suns",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "state_province": "AZ",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.446,
+        "longitude": -112.0714
+      }
+    },
+    {
+      "team": "Portland Trail Blazers",
+      "conference": "Western",
+      "division": "Northwest",
+      "arena": "Moda Center",
+      "city": "Portland",
+      "state_province": "OR",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 45.5316,
+        "longitude": -122.6668
+      }
+    },
+    {
+      "team": "Sacramento Kings",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Golden 1 Center",
+      "city": "Sacramento",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.5805,
+        "longitude": -121.4993
+      }
+    },
+    {
+      "team": "San Antonio Spurs",
+      "conference": "Western",
+      "division": "Southwest",
+      "arena": "Frost Bank Center",
+      "city": "San Antonio",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 29.427,
+        "longitude": -98.4375
+      }
+    },
+    {
+      "team": "Toronto Raptors",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Scotiabank Arena",
+      "city": "Toronto",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 43.6435,
+        "longitude": -79.3791
+      }
+    },
+    {
+      "team": "Utah Jazz",
+      "conference": "Western",
+      "division": "Northwest",
+      "arena": "Delta Center",
+      "city": "Salt Lake City",
+      "state_province": "UT",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7683,
+        "longitude": -111.9011
+      }
+    },
+    {
+      "team": "Washington Wizards",
+      "conference": "Eastern",
+      "division": "Southeast",
+      "arena": "Capital One Arena",
+      "city": "Washington",
+      "state_province": "DC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.8981,
+        "longitude": -77.0209
+      }
+    }
+  ]
+}

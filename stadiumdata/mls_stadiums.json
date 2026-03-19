@@ -1,0 +1,368 @@
+{
+  "league": "MLS",
+  "season": "2025",
+  "generated": "2026-03-19",
+  "count": 30,
+  "venues": [
+    {
+      "team": "Atlanta United FC",
+      "conference": "Eastern",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "state_province": "GA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.7553,
+        "longitude": -84.4006
+      }
+    },
+    {
+      "team": "Austin FC",
+      "conference": "Western",
+      "stadium": "Q2 Stadium",
+      "city": "Austin",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 30.3883,
+        "longitude": -97.7193
+      }
+    },
+    {
+      "team": "Charlotte FC",
+      "conference": "Eastern",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte",
+      "state_province": "NC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 35.2258,
+        "longitude": -80.8528
+      }
+    },
+    {
+      "team": "Chicago Fire FC",
+      "conference": "Eastern",
+      "stadium": "Soldier Field",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.8623,
+        "longitude": -87.6167
+      }
+    },
+    {
+      "team": "FC Cincinnati",
+      "conference": "Eastern",
+      "stadium": "TQL Stadium",
+      "city": "Cincinnati",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.1114,
+        "longitude": -84.5227
+      }
+    },
+    {
+      "team": "Colorado Rapids",
+      "conference": "Western",
+      "stadium": "Dick's Sporting Goods Park",
+      "city": "Commerce City",
+      "state_province": "CO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.8057,
+        "longitude": -104.8919
+      }
+    },
+    {
+      "team": "Columbus Crew",
+      "conference": "Eastern",
+      "stadium": "Lower.com Field",
+      "city": "Columbus",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9686,
+        "longitude": -83.0183
+      }
+    },
+    {
+      "team": "D.C. United",
+      "conference": "Eastern",
+      "stadium": "Audi Field",
+      "city": "Washington",
+      "state_province": "DC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.8685,
+        "longitude": -77.0125
+      }
+    },
+    {
+      "team": "FC Dallas",
+      "conference": "Western",
+      "stadium": "Toyota Stadium",
+      "city": "Frisco",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.1548,
+        "longitude": -96.8354
+      }
+    },
+    {
+      "team": "Houston Dynamo FC",
+      "conference": "Western",
+      "stadium": "Shell Energy Stadium",
+      "city": "Houston",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 29.7521,
+        "longitude": -95.3519
+      }
+    },
+    {
+      "team": "Inter Miami CF",
+      "conference": "Eastern",
+      "stadium": "Chase Stadium",
+      "city": "Fort Lauderdale",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 26.1924,
+        "longitude": -80.139
+      }
+    },
+    {
+      "team": "Sporting Kansas City",
+      "conference": "Western",
+      "stadium": "Sporting Park",
+      "city": "Kansas City",
+      "state_province": "KS",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.122,
+        "longitude": -94.8238
+      }
+    },
+    {
+      "team": "LA Galaxy",
+      "conference": "Western",
+      "stadium": "Dignity Health Sports Park",
+      "city": "Carson",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.8647,
+        "longitude": -118.261
+      }
+    },
+    {
+      "team": "LAFC",
+      "conference": "Western",
+      "stadium": "BMO Stadium",
+      "city": "Los Angeles",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 34.0136,
+        "longitude": -118.2847
+      }
+    },
+    {
+      "team": "Minnesota United FC",
+      "conference": "Western",
+      "stadium": "Allianz Field",
+      "city": "St. Paul",
+      "state_province": "MN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 44.9528,
+        "longitude": -93.1651
+      }
+    },
+    {
+      "team": "CF Montréal",
+      "conference": "Eastern",
+      "stadium": "Saputo Stadium",
+      "city": "Montreal",
+      "state_province": "QC",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 45.5638,
+        "longitude": -73.5514
+      }
+    },
+    {
+      "team": "Nashville SC",
+      "conference": "Eastern",
+      "stadium": "Geodis Park",
+      "city": "Nashville",
+      "state_province": "TN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 36.1302,
+        "longitude": -86.766
+      }
+    },
+    {
+      "team": "New England Revolution",
+      "conference": "Eastern",
+      "stadium": "Gillette Stadium",
+      "city": "Foxborough",
+      "state_province": "MA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.0909,
+        "longitude": -71.2643
+      }
+    },
+    {
+      "team": "NY Red Bulls",
+      "conference": "Eastern",
+      "stadium": "Sports Illustrated Stadium",
+      "city": "Harrison",
+      "state_province": "NJ",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7369,
+        "longitude": -74.1504
+      }
+    },
+    {
+      "team": "New York City FC",
+      "conference": "Eastern",
+      "stadium": "Yankee Stadium",
+      "city": "Bronx",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.8296,
+        "longitude": -73.9262
+      }
+    },
+    {
+      "team": "Orlando City SC",
+      "conference": "Eastern",
+      "stadium": "Inter&Co Stadium",
+      "city": "Orlando",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 28.5392,
+        "longitude": -81.3897
+      }
+    },
+    {
+      "team": "Philadelphia Union",
+      "conference": "Eastern",
+      "stadium": "Subaru Park",
+      "city": "Chester",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.8314,
+        "longitude": -75.3785
+      }
+    },
+    {
+      "team": "Portland Timbers",
+      "conference": "Western",
+      "stadium": "Providence Park",
+      "city": "Portland",
+      "state_province": "OR",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 45.5215,
+        "longitude": -122.6916
+      }
+    },
+    {
+      "team": "Real Salt Lake",
+      "conference": "Western",
+      "stadium": "America First Field",
+      "city": "Sandy",
+      "state_province": "UT",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.582,
+        "longitude": -111.8929
+      }
+    },
+    {
+      "team": "San Diego FC",
+      "conference": "Western",
+      "stadium": "Snapdragon Stadium",
+      "city": "San Diego",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7831,
+        "longitude": -117.1194
+      }
+    },
+    {
+      "team": "San Jose Earthquakes",
+      "conference": "Western",
+      "stadium": "PayPal Park",
+      "city": "San Jose",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 37.3519,
+        "longitude": -121.925
+      }
+    },
+    {
+      "team": "Seattle Sounders FC",
+      "conference": "Western",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "state_province": "WA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 47.5952,
+        "longitude": -122.3316
+      }
+    },
+    {
+      "team": "St. Louis City SC",
+      "conference": "Western",
+      "stadium": "Energizer Park",
+      "city": "St. Louis",
+      "state_province": "MO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.6331,
+        "longitude": -90.2089
+      }
+    },
+    {
+      "team": "Toronto FC",
+      "conference": "Eastern",
+      "stadium": "BMO Field",
+      "city": "Toronto",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 43.6332,
+        "longitude": -79.4186
+      }
+    },
+    {
+      "team": "Vancouver Whitecaps FC",
+      "conference": "Western",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "state_province": "BC",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 49.2778,
+        "longitude": -123.1116
+      }
+    }
+  ]
+}

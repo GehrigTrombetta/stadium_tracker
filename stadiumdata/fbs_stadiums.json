@@ -1,0 +1,1461 @@
+{
+  "league": "CFB",
+  "season": "2025",
+  "note": "Conference affiliations reflect 2026 season per Wikipedia. Coordinates are best-effort from training data.",
+  "generated": "2026-03-19",
+  "count": 132,
+  "programs": [
+    {
+      "school": "Boston College",
+      "conference": "ACC",
+      "stadium": "Alumni Stadium",
+      "city": "Chestnut Hill",
+      "state": "MA",
+      "coordinates": {
+        "latitude": 42.3356,
+        "longitude": -71.1672
+      }
+    },
+    {
+      "school": "California",
+      "conference": "ACC",
+      "stadium": "California Memorial Stadium",
+      "city": "Berkeley",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 37.871,
+        "longitude": -122.2503
+      }
+    },
+    {
+      "school": "Clemson",
+      "conference": "ACC",
+      "stadium": "Memorial Stadium",
+      "city": "Clemson",
+      "state": "SC",
+      "coordinates": {
+        "latitude": 34.6784,
+        "longitude": -82.844
+      }
+    },
+    {
+      "school": "Duke",
+      "conference": "ACC",
+      "stadium": "Wallace Wade Stadium",
+      "city": "Durham",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.9976,
+        "longitude": -78.9406
+      }
+    },
+    {
+      "school": "Florida State",
+      "conference": "ACC",
+      "stadium": "Doak Campbell Stadium",
+      "city": "Tallahassee",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 30.4396,
+        "longitude": -84.2979
+      }
+    },
+    {
+      "school": "Georgia Tech",
+      "conference": "ACC",
+      "stadium": "Bobby Dodd Stadium at Historic Grant Field",
+      "city": "Atlanta",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 33.7724,
+        "longitude": -84.3932
+      }
+    },
+    {
+      "school": "Louisville",
+      "conference": "ACC",
+      "stadium": "L&N Federal Credit Union Stadium",
+      "city": "Louisville",
+      "state": "KY",
+      "coordinates": {
+        "latitude": 38.2141,
+        "longitude": -85.7646
+      }
+    },
+    {
+      "school": "Miami (FL)",
+      "conference": "ACC",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 25.9579,
+        "longitude": -80.2389
+      }
+    },
+    {
+      "school": "NC State",
+      "conference": "ACC",
+      "stadium": "Carter-Finley Stadium",
+      "city": "Raleigh",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.8066,
+        "longitude": -78.7219
+      }
+    },
+    {
+      "school": "North Carolina",
+      "conference": "ACC",
+      "stadium": "Kenan Memorial Stadium",
+      "city": "Chapel Hill",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.9108,
+        "longitude": -79.0471
+      }
+    },
+    {
+      "school": "Notre Dame",
+      "conference": "Independent",
+      "stadium": "Notre Dame Stadium",
+      "city": "Notre Dame",
+      "state": "IN",
+      "coordinates": {
+        "latitude": 41.6979,
+        "longitude": -86.2336
+      }
+    },
+    {
+      "school": "Pitt",
+      "conference": "ACC",
+      "stadium": "Acrisure Stadium",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 40.4468,
+        "longitude": -80.0158
+      }
+    },
+    {
+      "school": "SMU",
+      "conference": "ACC",
+      "stadium": "Gerald J. Ford Stadium",
+      "city": "Dallas",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 32.843,
+        "longitude": -96.7849
+      }
+    },
+    {
+      "school": "Stanford",
+      "conference": "ACC",
+      "stadium": "Stanford Stadium",
+      "city": "Stanford",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 37.4346,
+        "longitude": -122.1609
+      }
+    },
+    {
+      "school": "Syracuse",
+      "conference": "ACC",
+      "stadium": "JMA Wireless Dome",
+      "city": "Syracuse",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 43.0361,
+        "longitude": -76.1363
+      }
+    },
+    {
+      "school": "Virginia",
+      "conference": "ACC",
+      "stadium": "Scott Stadium",
+      "city": "Charlottesville",
+      "state": "VA",
+      "coordinates": {
+        "latitude": 38.0318,
+        "longitude": -78.5092
+      }
+    },
+    {
+      "school": "Virginia Tech",
+      "conference": "ACC",
+      "stadium": "Lane Stadium",
+      "city": "Blacksburg",
+      "state": "VA",
+      "coordinates": {
+        "latitude": 37.22,
+        "longitude": -80.4179
+      }
+    },
+    {
+      "school": "Wake Forest",
+      "conference": "ACC",
+      "stadium": "Truist Field",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 36.099,
+        "longitude": -80.2486
+      }
+    },
+    {
+      "school": "Charlotte",
+      "conference": "American Athletic",
+      "stadium": "Jerry Richardson Stadium",
+      "city": "Charlotte",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.3093,
+        "longitude": -80.7448
+      }
+    },
+    {
+      "school": "East Carolina",
+      "conference": "American Athletic",
+      "stadium": "Dowdy-Ficklen Stadium",
+      "city": "Greenville",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 35.6095,
+        "longitude": -77.3688
+      }
+    },
+    {
+      "school": "Florida Atlantic",
+      "conference": "American Athletic",
+      "stadium": "FAU Stadium",
+      "city": "Boca Raton",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 26.3713,
+        "longitude": -80.1043
+      }
+    },
+    {
+      "school": "Memphis",
+      "conference": "American Athletic",
+      "stadium": "Simmons Bank Liberty Stadium",
+      "city": "Memphis",
+      "state": "TN",
+      "coordinates": {
+        "latitude": 35.1497,
+        "longitude": -90.0279
+      }
+    },
+    {
+      "school": "Navy",
+      "conference": "American Athletic",
+      "stadium": "Navy-Marine Corps Memorial Stadium",
+      "city": "Annapolis",
+      "state": "MD",
+      "coordinates": {
+        "latitude": 38.9887,
+        "longitude": -76.484
+      }
+    },
+    {
+      "school": "North Texas",
+      "conference": "American Athletic",
+      "stadium": "Apogee Stadium",
+      "city": "Denton",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 33.2205,
+        "longitude": -97.1515
+      }
+    },
+    {
+      "school": "Rice",
+      "conference": "American Athletic",
+      "stadium": "Rice Stadium",
+      "city": "Houston",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 29.7156,
+        "longitude": -95.406
+      }
+    },
+    {
+      "school": "South Florida",
+      "conference": "American Athletic",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 27.9759,
+        "longitude": -82.5033
+      }
+    },
+    {
+      "school": "Temple",
+      "conference": "American Athletic",
+      "stadium": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 39.9008,
+        "longitude": -75.1675
+      }
+    },
+    {
+      "school": "Tulane",
+      "conference": "American Athletic",
+      "stadium": "Yulman Stadium",
+      "city": "New Orleans",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 29.9388,
+        "longitude": -90.1186
+      }
+    },
+    {
+      "school": "Tulsa",
+      "conference": "American Athletic",
+      "stadium": "Skelly Field at H.A. Chapman Stadium",
+      "city": "Tulsa",
+      "state": "OK",
+      "coordinates": {
+        "latitude": 36.1484,
+        "longitude": -95.9899
+      }
+    },
+    {
+      "school": "UAB",
+      "conference": "American Athletic",
+      "stadium": "Protective Stadium",
+      "city": "Birmingham",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 33.5185,
+        "longitude": -86.8098
+      }
+    },
+    {
+      "school": "UCF",
+      "conference": "Big 12",
+      "stadium": "FBC Mortgage Stadium",
+      "city": "Orlando",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 28.6016,
+        "longitude": -81.1964
+      }
+    },
+    {
+      "school": "Wichita State",
+      "conference": "American Athletic",
+      "stadium": "Cessna Stadium",
+      "city": "Wichita",
+      "state": "KS",
+      "coordinates": {
+        "latitude": 37.7175,
+        "longitude": -97.2942
+      }
+    },
+    {
+      "school": "Arizona",
+      "conference": "Big 12",
+      "stadium": "Arizona Stadium",
+      "city": "Tucson",
+      "state": "AZ",
+      "coordinates": {
+        "latitude": 32.2292,
+        "longitude": -110.949
+      }
+    },
+    {
+      "school": "Arizona State",
+      "conference": "Big 12",
+      "stadium": "Mountain America Stadium",
+      "city": "Tempe",
+      "state": "AZ",
+      "coordinates": {
+        "latitude": 33.4263,
+        "longitude": -111.9323
+      }
+    },
+    {
+      "school": "Baylor",
+      "conference": "Big 12",
+      "stadium": "McLane Stadium",
+      "city": "Waco",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 31.559,
+        "longitude": -97.1161
+      }
+    },
+    {
+      "school": "BYU",
+      "conference": "Big 12",
+      "stadium": "LaVell Edwards Stadium",
+      "city": "Provo",
+      "state": "UT",
+      "coordinates": {
+        "latitude": 40.2569,
+        "longitude": -111.6538
+      }
+    },
+    {
+      "school": "Cincinnati",
+      "conference": "Big 12",
+      "stadium": "Nippert Stadium",
+      "city": "Cincinnati",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 39.1306,
+        "longitude": -84.5164
+      }
+    },
+    {
+      "school": "Colorado",
+      "conference": "Big 12",
+      "stadium": "Folsom Field",
+      "city": "Boulder",
+      "state": "CO",
+      "coordinates": {
+        "latitude": 40.0094,
+        "longitude": -105.2662
+      }
+    },
+    {
+      "school": "Houston",
+      "conference": "Big 12",
+      "stadium": "TDECU Stadium",
+      "city": "Houston",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 29.7219,
+        "longitude": -95.3609
+      }
+    },
+    {
+      "school": "Iowa State",
+      "conference": "Big 12",
+      "stadium": "Jack Trice Stadium",
+      "city": "Ames",
+      "state": "IA",
+      "coordinates": {
+        "latitude": 42.0138,
+        "longitude": -93.6357
+      }
+    },
+    {
+      "school": "Kansas",
+      "conference": "Big 12",
+      "stadium": "David Booth Kansas Memorial Stadium",
+      "city": "Lawrence",
+      "state": "KS",
+      "coordinates": {
+        "latitude": 38.9629,
+        "longitude": -95.2512
+      }
+    },
+    {
+      "school": "Kansas State",
+      "conference": "Big 12",
+      "stadium": "Bill Snyder Family Stadium",
+      "city": "Manhattan",
+      "state": "KS",
+      "coordinates": {
+        "latitude": 39.2009,
+        "longitude": -96.595
+      }
+    },
+    {
+      "school": "Oklahoma",
+      "conference": "SEC",
+      "stadium": "Gaylord Family Oklahoma Memorial Stadium",
+      "city": "Norman",
+      "state": "OK",
+      "coordinates": {
+        "latitude": 35.2058,
+        "longitude": -97.4428
+      }
+    },
+    {
+      "school": "Oklahoma State",
+      "conference": "Big 12",
+      "stadium": "Boone Pickens Stadium",
+      "city": "Stillwater",
+      "state": "OK",
+      "coordinates": {
+        "latitude": 36.1248,
+        "longitude": -97.0675
+      }
+    },
+    {
+      "school": "TCU",
+      "conference": "Big 12",
+      "stadium": "Amon G. Carter Stadium",
+      "city": "Fort Worth",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 32.7098,
+        "longitude": -97.3669
+      }
+    },
+    {
+      "school": "Texas",
+      "conference": "SEC",
+      "stadium": "Darrell K Royal–Texas Memorial Stadium",
+      "city": "Austin",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 30.2838,
+        "longitude": -97.7326
+      }
+    },
+    {
+      "school": "Texas Tech",
+      "conference": "Big 12",
+      "stadium": "Jones AT&T Stadium",
+      "city": "Lubbock",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 33.5899,
+        "longitude": -101.8744
+      }
+    },
+    {
+      "school": "Utah",
+      "conference": "Big 12",
+      "stadium": "Rice-Eccles Stadium",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "coordinates": {
+        "latitude": 40.76,
+        "longitude": -111.8483
+      }
+    },
+    {
+      "school": "West Virginia",
+      "conference": "Big 12",
+      "stadium": "Milan Puskar Stadium",
+      "city": "Morgantown",
+      "state": "WV",
+      "coordinates": {
+        "latitude": 39.6495,
+        "longitude": -79.9552
+      }
+    },
+    {
+      "school": "Illinois",
+      "conference": "Big Ten",
+      "stadium": "Memorial Stadium",
+      "city": "Champaign",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 40.1003,
+        "longitude": -88.236
+      }
+    },
+    {
+      "school": "Indiana",
+      "conference": "Big Ten",
+      "stadium": "Memorial Stadium",
+      "city": "Bloomington",
+      "state": "IN",
+      "coordinates": {
+        "latitude": 39.1839,
+        "longitude": -86.5262
+      }
+    },
+    {
+      "school": "Iowa",
+      "conference": "Big Ten",
+      "stadium": "Kinnick Stadium",
+      "city": "Iowa City",
+      "state": "IA",
+      "coordinates": {
+        "latitude": 41.6587,
+        "longitude": -91.5508
+      }
+    },
+    {
+      "school": "Maryland",
+      "conference": "Big Ten",
+      "stadium": "SECU Stadium",
+      "city": "College Park",
+      "state": "MD",
+      "coordinates": {
+        "latitude": 38.9891,
+        "longitude": -76.9458
+      }
+    },
+    {
+      "school": "Michigan",
+      "conference": "Big Ten",
+      "stadium": "Michigan Stadium",
+      "city": "Ann Arbor",
+      "state": "MI",
+      "coordinates": {
+        "latitude": 42.2659,
+        "longitude": -83.7487
+      }
+    },
+    {
+      "school": "Michigan State",
+      "conference": "Big Ten",
+      "stadium": "Spartan Stadium",
+      "city": "East Lansing",
+      "state": "MI",
+      "coordinates": {
+        "latitude": 42.7277,
+        "longitude": -84.4823
+      }
+    },
+    {
+      "school": "Minnesota",
+      "conference": "Big Ten",
+      "stadium": "Huntington Bank Stadium",
+      "city": "Minneapolis",
+      "state": "MN",
+      "coordinates": {
+        "latitude": 44.9763,
+        "longitude": -93.2311
+      }
+    },
+    {
+      "school": "Nebraska",
+      "conference": "Big Ten",
+      "stadium": "Memorial Stadium",
+      "city": "Lincoln",
+      "state": "NE",
+      "coordinates": {
+        "latitude": 40.8204,
+        "longitude": -96.7052
+      }
+    },
+    {
+      "school": "Northwestern",
+      "conference": "Big Ten",
+      "stadium": "Ryan Field",
+      "city": "Evanston",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 42.0601,
+        "longitude": -87.6681
+      }
+    },
+    {
+      "school": "Ohio State",
+      "conference": "Big Ten",
+      "stadium": "Ohio Stadium",
+      "city": "Columbus",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 40.0016,
+        "longitude": -83.0197
+      }
+    },
+    {
+      "school": "Oregon",
+      "conference": "Big Ten",
+      "stadium": "Autzen Stadium",
+      "city": "Eugene",
+      "state": "OR",
+      "coordinates": {
+        "latitude": 44.0575,
+        "longitude": -123.0686
+      }
+    },
+    {
+      "school": "Penn State",
+      "conference": "Big Ten",
+      "stadium": "Beaver Stadium",
+      "city": "University Park",
+      "state": "PA",
+      "coordinates": {
+        "latitude": 40.8122,
+        "longitude": -77.8563
+      }
+    },
+    {
+      "school": "Purdue",
+      "conference": "Big Ten",
+      "stadium": "Ross-Ade Stadium",
+      "city": "West Lafayette",
+      "state": "IN",
+      "coordinates": {
+        "latitude": 40.4337,
+        "longitude": -86.9165
+      }
+    },
+    {
+      "school": "Rutgers",
+      "conference": "Big Ten",
+      "stadium": "SHI Stadium",
+      "city": "Piscataway",
+      "state": "NJ",
+      "coordinates": {
+        "latitude": 40.5167,
+        "longitude": -74.4531
+      }
+    },
+    {
+      "school": "UCLA",
+      "conference": "Big Ten",
+      "stadium": "Rose Bowl Stadium",
+      "city": "Pasadena",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.1614,
+        "longitude": -118.1676
+      }
+    },
+    {
+      "school": "USC",
+      "conference": "Big Ten",
+      "stadium": "Los Angeles Memorial Coliseum",
+      "city": "Los Angeles",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 34.0141,
+        "longitude": -118.2879
+      }
+    },
+    {
+      "school": "Washington",
+      "conference": "Big Ten",
+      "stadium": "Husky Stadium",
+      "city": "Seattle",
+      "state": "WA",
+      "coordinates": {
+        "latitude": 47.6503,
+        "longitude": -122.3022
+      }
+    },
+    {
+      "school": "Wisconsin",
+      "conference": "Big Ten",
+      "stadium": "Camp Randall Stadium",
+      "city": "Madison",
+      "state": "WI",
+      "coordinates": {
+        "latitude": 43.0698,
+        "longitude": -89.4122
+      }
+    },
+    {
+      "school": "FIU",
+      "conference": "Conference USA",
+      "stadium": "Ricardo Silva Stadium",
+      "city": "Miami",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 25.7566,
+        "longitude": -80.3762
+      }
+    },
+    {
+      "school": "Jacksonville State",
+      "conference": "Conference USA",
+      "stadium": "Burgess-Snow Field at Jacksonville State Stadium",
+      "city": "Jacksonville",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 33.8259,
+        "longitude": -85.7659
+      }
+    },
+    {
+      "school": "Louisiana Tech",
+      "conference": "Conference USA",
+      "stadium": "Joe Aillet Stadium",
+      "city": "Ruston",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 32.5345,
+        "longitude": -92.6397
+      }
+    },
+    {
+      "school": "Middle Tennessee",
+      "conference": "Conference USA",
+      "stadium": "Floyd Stadium",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "coordinates": {
+        "latitude": 35.8508,
+        "longitude": -86.3601
+      }
+    },
+    {
+      "school": "New Mexico State",
+      "conference": "Conference USA",
+      "stadium": "Aggie Memorial Stadium",
+      "city": "Las Cruces",
+      "state": "NM",
+      "coordinates": {
+        "latitude": 32.2816,
+        "longitude": -106.75
+      }
+    },
+    {
+      "school": "Sam Houston",
+      "conference": "Conference USA",
+      "stadium": "Bowers Stadium",
+      "city": "Huntsville",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 30.7168,
+        "longitude": -95.542
+      }
+    },
+    {
+      "school": "Western Kentucky",
+      "conference": "Conference USA",
+      "stadium": "Houchens Industries–L.T. Smith Stadium",
+      "city": "Bowling Green",
+      "state": "KY",
+      "coordinates": {
+        "latitude": 36.9868,
+        "longitude": -86.4553
+      }
+    },
+    {
+      "school": "Akron",
+      "conference": "MAC",
+      "stadium": "Summa Field at InfoCision Stadium",
+      "city": "Akron",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 41.0735,
+        "longitude": -81.5109
+      }
+    },
+    {
+      "school": "Ball State",
+      "conference": "MAC",
+      "stadium": "Scheumann Stadium",
+      "city": "Muncie",
+      "state": "IN",
+      "coordinates": {
+        "latitude": 40.1988,
+        "longitude": -85.4137
+      }
+    },
+    {
+      "school": "Bowling Green",
+      "conference": "MAC",
+      "stadium": "Doyt L. Perry Stadium",
+      "city": "Bowling Green",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 41.3803,
+        "longitude": -83.6432
+      }
+    },
+    {
+      "school": "Buffalo",
+      "conference": "MAC",
+      "stadium": "UB Stadium",
+      "city": "Amherst",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 42.9493,
+        "longitude": -78.8193
+      }
+    },
+    {
+      "school": "Central Michigan",
+      "conference": "MAC",
+      "stadium": "Kelly/Shorts Stadium",
+      "city": "Mount Pleasant",
+      "state": "MI",
+      "coordinates": {
+        "latitude": 43.5987,
+        "longitude": -84.7723
+      }
+    },
+    {
+      "school": "Eastern Michigan",
+      "conference": "MAC",
+      "stadium": "Rynearson Stadium",
+      "city": "Ypsilanti",
+      "state": "MI",
+      "coordinates": {
+        "latitude": 42.2576,
+        "longitude": -83.6349
+      }
+    },
+    {
+      "school": "Kent State",
+      "conference": "MAC",
+      "stadium": "Dix Stadium",
+      "city": "Kent",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 41.1568,
+        "longitude": -81.3501
+      }
+    },
+    {
+      "school": "Miami (OH)",
+      "conference": "MAC",
+      "stadium": "Yager Stadium",
+      "city": "Oxford",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 39.5096,
+        "longitude": -84.7324
+      }
+    },
+    {
+      "school": "Northern Illinois",
+      "conference": "MAC",
+      "stadium": "Huskie Stadium",
+      "city": "DeKalb",
+      "state": "IL",
+      "coordinates": {
+        "latitude": 41.9337,
+        "longitude": -88.7736
+      }
+    },
+    {
+      "school": "Ohio",
+      "conference": "MAC",
+      "stadium": "Peden Stadium",
+      "city": "Athens",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 39.3268,
+        "longitude": -82.098
+      }
+    },
+    {
+      "school": "Toledo",
+      "conference": "MAC",
+      "stadium": "Glass Bowl",
+      "city": "Toledo",
+      "state": "OH",
+      "coordinates": {
+        "latitude": 41.6609,
+        "longitude": -83.6105
+      }
+    },
+    {
+      "school": "Western Michigan",
+      "conference": "MAC",
+      "stadium": "Waldo Stadium",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "coordinates": {
+        "latitude": 42.2776,
+        "longitude": -85.6166
+      }
+    },
+    {
+      "school": "Air Force",
+      "conference": "Mountain West",
+      "stadium": "Falcon Stadium",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "coordinates": {
+        "latitude": 38.9969,
+        "longitude": -104.8614
+      }
+    },
+    {
+      "school": "Boise State",
+      "conference": "Mountain West",
+      "stadium": "Albertsons Stadium",
+      "city": "Boise",
+      "state": "ID",
+      "coordinates": {
+        "latitude": 43.6026,
+        "longitude": -116.1996
+      }
+    },
+    {
+      "school": "Colorado State",
+      "conference": "Mountain West",
+      "stadium": "Canvas Stadium",
+      "city": "Fort Collins",
+      "state": "CO",
+      "coordinates": {
+        "latitude": 40.5794,
+        "longitude": -105.0852
+      }
+    },
+    {
+      "school": "Fresno State",
+      "conference": "Mountain West",
+      "stadium": "Valley Children's Stadium",
+      "city": "Fresno",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 36.8121,
+        "longitude": -119.7481
+      }
+    },
+    {
+      "school": "Hawaii",
+      "conference": "Mountain West",
+      "stadium": "Clarence T.C. Ching Athletics Complex",
+      "city": "Honolulu",
+      "state": "HI",
+      "coordinates": {
+        "latitude": 21.298,
+        "longitude": -157.8194
+      }
+    },
+    {
+      "school": "Nevada",
+      "conference": "Mountain West",
+      "stadium": "Mackay Stadium",
+      "city": "Reno",
+      "state": "NV",
+      "coordinates": {
+        "latitude": 39.547,
+        "longitude": -119.8192
+      }
+    },
+    {
+      "school": "New Mexico",
+      "conference": "Mountain West",
+      "stadium": "University Stadium",
+      "city": "Albuquerque",
+      "state": "NM",
+      "coordinates": {
+        "latitude": 35.0841,
+        "longitude": -106.6198
+      }
+    },
+    {
+      "school": "San Diego State",
+      "conference": "Mountain West",
+      "stadium": "Snapdragon Stadium",
+      "city": "San Diego",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 32.7831,
+        "longitude": -117.1194
+      }
+    },
+    {
+      "school": "San Jose State",
+      "conference": "Mountain West",
+      "stadium": "CEFCU Stadium",
+      "city": "San Jose",
+      "state": "CA",
+      "coordinates": {
+        "latitude": 37.3353,
+        "longitude": -121.8944
+      }
+    },
+    {
+      "school": "UNLV",
+      "conference": "Mountain West",
+      "stadium": "Allegiant Stadium",
+      "city": "Las Vegas",
+      "state": "NV",
+      "coordinates": {
+        "latitude": 36.0909,
+        "longitude": -115.1833
+      }
+    },
+    {
+      "school": "Utah State",
+      "conference": "Mountain West",
+      "stadium": "Maverik Stadium",
+      "city": "Logan",
+      "state": "UT",
+      "coordinates": {
+        "latitude": 41.7424,
+        "longitude": -111.8179
+      }
+    },
+    {
+      "school": "Wyoming",
+      "conference": "Mountain West",
+      "stadium": "War Memorial Stadium",
+      "city": "Laramie",
+      "state": "WY",
+      "coordinates": {
+        "latitude": 41.3119,
+        "longitude": -105.5762
+      }
+    },
+    {
+      "school": "Oregon State",
+      "conference": "Pac-12",
+      "stadium": "Reser Stadium",
+      "city": "Corvallis",
+      "state": "OR",
+      "coordinates": {
+        "latitude": 44.5638,
+        "longitude": -123.2781
+      }
+    },
+    {
+      "school": "Washington State",
+      "conference": "Pac-12",
+      "stadium": "Gesa Field at Martin Stadium",
+      "city": "Pullman",
+      "state": "WA",
+      "coordinates": {
+        "latitude": 46.7307,
+        "longitude": -117.1554
+      }
+    },
+    {
+      "school": "Alabama",
+      "conference": "SEC",
+      "stadium": "Bryant-Denny Stadium",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 33.2085,
+        "longitude": -87.5504
+      }
+    },
+    {
+      "school": "Arkansas",
+      "conference": "SEC",
+      "stadium": "Donald W. Reynolds Razorback Stadium",
+      "city": "Fayetteville",
+      "state": "AR",
+      "coordinates": {
+        "latitude": 36.0683,
+        "longitude": -94.1764
+      }
+    },
+    {
+      "school": "Auburn",
+      "conference": "SEC",
+      "stadium": "Jordan-Hare Stadium",
+      "city": "Auburn",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 32.6021,
+        "longitude": -85.4891
+      }
+    },
+    {
+      "school": "Florida",
+      "conference": "SEC",
+      "stadium": "Ben Hill Griffin Stadium",
+      "city": "Gainesville",
+      "state": "FL",
+      "coordinates": {
+        "latitude": 29.6499,
+        "longitude": -82.3487
+      }
+    },
+    {
+      "school": "Georgia",
+      "conference": "SEC",
+      "stadium": "Sanford Stadium",
+      "city": "Athens",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 33.9497,
+        "longitude": -83.3734
+      }
+    },
+    {
+      "school": "Kentucky",
+      "conference": "SEC",
+      "stadium": "Kroger Field",
+      "city": "Lexington",
+      "state": "KY",
+      "coordinates": {
+        "latitude": 38.0234,
+        "longitude": -84.505
+      }
+    },
+    {
+      "school": "LSU",
+      "conference": "SEC",
+      "stadium": "Tiger Stadium",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 30.4122,
+        "longitude": -91.1837
+      }
+    },
+    {
+      "school": "Mississippi State",
+      "conference": "SEC",
+      "stadium": "Davis Wade Stadium at Scott Field",
+      "city": "Starkville",
+      "state": "MS",
+      "coordinates": {
+        "latitude": 33.4563,
+        "longitude": -88.7888
+      }
+    },
+    {
+      "school": "Missouri",
+      "conference": "SEC",
+      "stadium": "Faurot Field at Memorial Stadium",
+      "city": "Columbia",
+      "state": "MO",
+      "coordinates": {
+        "latitude": 38.9356,
+        "longitude": -92.333
+      }
+    },
+    {
+      "school": "Ole Miss",
+      "conference": "SEC",
+      "stadium": "Vaught-Hemingway Stadium",
+      "city": "Oxford",
+      "state": "MS",
+      "coordinates": {
+        "latitude": 34.3633,
+        "longitude": -89.5312
+      }
+    },
+    {
+      "school": "South Carolina",
+      "conference": "SEC",
+      "stadium": "Williams-Brice Stadium",
+      "city": "Columbia",
+      "state": "SC",
+      "coordinates": {
+        "latitude": 33.9728,
+        "longitude": -81.0213
+      }
+    },
+    {
+      "school": "Tennessee",
+      "conference": "SEC",
+      "stadium": "Neyland Stadium",
+      "city": "Knoxville",
+      "state": "TN",
+      "coordinates": {
+        "latitude": 35.9551,
+        "longitude": -83.9253
+      }
+    },
+    {
+      "school": "Texas A&M",
+      "conference": "SEC",
+      "stadium": "Kyle Field",
+      "city": "College Station",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 30.61,
+        "longitude": -96.3403
+      }
+    },
+    {
+      "school": "Vanderbilt",
+      "conference": "SEC",
+      "stadium": "FirstBank Stadium",
+      "city": "Nashville",
+      "state": "TN",
+      "coordinates": {
+        "latitude": 36.1426,
+        "longitude": -86.809
+      }
+    },
+    {
+      "school": "Appalachian State",
+      "conference": "Sun Belt",
+      "stadium": "Kidd Brewer Stadium",
+      "city": "Boone",
+      "state": "NC",
+      "coordinates": {
+        "latitude": 36.2143,
+        "longitude": -81.682
+      }
+    },
+    {
+      "school": "Arkansas State",
+      "conference": "Sun Belt",
+      "stadium": "Centennial Bank Stadium",
+      "city": "Jonesboro",
+      "state": "AR",
+      "coordinates": {
+        "latitude": 35.8342,
+        "longitude": -90.6948
+      }
+    },
+    {
+      "school": "Coastal Carolina",
+      "conference": "Sun Belt",
+      "stadium": "Brooks Stadium",
+      "city": "Conway",
+      "state": "SC",
+      "coordinates": {
+        "latitude": 33.7912,
+        "longitude": -79.0152
+      }
+    },
+    {
+      "school": "Georgia Southern",
+      "conference": "Sun Belt",
+      "stadium": "Allen E. Paulson Stadium",
+      "city": "Statesboro",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 32.4179,
+        "longitude": -81.7777
+      }
+    },
+    {
+      "school": "Georgia State",
+      "conference": "Sun Belt",
+      "stadium": "Center Parc Credit Union Stadium",
+      "city": "Atlanta",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 33.7353,
+        "longitude": -84.389
+      }
+    },
+    {
+      "school": "James Madison",
+      "conference": "Sun Belt",
+      "stadium": "Bridgeforth Stadium",
+      "city": "Harrisonburg",
+      "state": "VA",
+      "coordinates": {
+        "latitude": 38.4351,
+        "longitude": -78.8654
+      }
+    },
+    {
+      "school": "Louisiana",
+      "conference": "Sun Belt",
+      "stadium": "Cajun Field",
+      "city": "Lafayette",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 30.212,
+        "longitude": -92.0194
+      }
+    },
+    {
+      "school": "Louisiana Monroe",
+      "conference": "Sun Belt",
+      "stadium": "Malone Stadium",
+      "city": "Monroe",
+      "state": "LA",
+      "coordinates": {
+        "latitude": 32.5357,
+        "longitude": -92.0704
+      }
+    },
+    {
+      "school": "Marshall",
+      "conference": "Sun Belt",
+      "stadium": "Joan C. Edwards Stadium",
+      "city": "Huntington",
+      "state": "WV",
+      "coordinates": {
+        "latitude": 38.4233,
+        "longitude": -82.4289
+      }
+    },
+    {
+      "school": "Old Dominion",
+      "conference": "Sun Belt",
+      "stadium": "Kornblau Field at S.B. Ballard Stadium",
+      "city": "Norfolk",
+      "state": "VA",
+      "coordinates": {
+        "latitude": 36.8882,
+        "longitude": -76.3077
+      }
+    },
+    {
+      "school": "South Alabama",
+      "conference": "Sun Belt",
+      "stadium": "Hancock Whitney Stadium",
+      "city": "Mobile",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 30.6963,
+        "longitude": -88.173
+      }
+    },
+    {
+      "school": "Southern Miss",
+      "conference": "Sun Belt",
+      "stadium": "M.M. Roberts Stadium",
+      "city": "Hattiesburg",
+      "state": "MS",
+      "coordinates": {
+        "latitude": 31.3303,
+        "longitude": -89.3297
+      }
+    },
+    {
+      "school": "Texas State",
+      "conference": "Sun Belt",
+      "stadium": "Jim Wacker Field at Bobcat Stadium",
+      "city": "San Marcos",
+      "state": "TX",
+      "coordinates": {
+        "latitude": 29.8862,
+        "longitude": -97.9398
+      }
+    },
+    {
+      "school": "Troy",
+      "conference": "Sun Belt",
+      "stadium": "Veterans Memorial Stadium",
+      "city": "Troy",
+      "state": "AL",
+      "coordinates": {
+        "latitude": 31.7965,
+        "longitude": -85.9738
+      }
+    },
+    {
+      "school": "Army",
+      "conference": "Independent",
+      "stadium": "Michie Stadium",
+      "city": "West Point",
+      "state": "NY",
+      "coordinates": {
+        "latitude": 41.3935,
+        "longitude": -73.9577
+      }
+    },
+    {
+      "school": "Connecticut",
+      "conference": "Independent",
+      "stadium": "Rentschler Field",
+      "city": "East Hartford",
+      "state": "CT",
+      "coordinates": {
+        "latitude": 41.7607,
+        "longitude": -72.6467
+      }
+    },
+    {
+      "school": "Liberty",
+      "conference": "Independent",
+      "stadium": "Williams Stadium",
+      "city": "Lynchburg",
+      "state": "VA",
+      "coordinates": {
+        "latitude": 37.3524,
+        "longitude": -79.1744
+      }
+    },
+    {
+      "school": "Kennesaw State",
+      "conference": "Conference USA",
+      "stadium": "Fifth Third Bank Stadium",
+      "city": "Kennesaw",
+      "state": "GA",
+      "coordinates": {
+        "latitude": 34.0259,
+        "longitude": -84.5748
+      }
+    }
+  ]
+}

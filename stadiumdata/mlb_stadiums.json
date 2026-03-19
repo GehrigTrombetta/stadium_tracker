@@ -1,0 +1,398 @@
+{
+  "league": "MLB",
+  "season": "2025",
+  "generated": "2026-03-19",
+  "count": 30,
+  "venues": [
+    {
+      "team": "Arizona Diamondbacks",
+      "conference": "NL",
+      "division": "West",
+      "stadium": "Chase Field",
+      "city": "Phoenix",
+      "state_province": "AZ",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.4455,
+        "longitude": -112.0667
+      }
+    },
+    {
+      "team": "Atlanta Braves",
+      "conference": "NL",
+      "division": "East",
+      "stadium": "Truist Park",
+      "city": "Cumberland",
+      "state_province": "GA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.8908,
+        "longitude": -84.4678
+      }
+    },
+    {
+      "team": "Baltimore Orioles",
+      "conference": "AL",
+      "division": "East",
+      "stadium": "Oriole Park at Camden Yards",
+      "city": "Baltimore",
+      "state_province": "MD",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.2839,
+        "longitude": -76.6217
+      }
+    },
+    {
+      "team": "Boston Red Sox",
+      "conference": "AL",
+      "division": "East",
+      "stadium": "Fenway Park",
+      "city": "Boston",
+      "state_province": "MA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.3467,
+        "longitude": -71.0972
+      }
+    },
+    {
+      "team": "Chicago Cubs",
+      "conference": "NL",
+      "division": "Central",
+      "stadium": "Wrigley Field",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.9484,
+        "longitude": -87.6554
+      }
+    },
+    {
+      "team": "Chicago White Sox",
+      "conference": "AL",
+      "division": "Central",
+      "stadium": "Rate Field",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.8299,
+        "longitude": -87.6338
+      }
+    },
+    {
+      "team": "Cincinnati Reds",
+      "conference": "NL",
+      "division": "Central",
+      "stadium": "Great American Ball Park",
+      "city": "Cincinnati",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.0979,
+        "longitude": -84.5082
+      }
+    },
+    {
+      "team": "Cleveland Guardians",
+      "conference": "AL",
+      "division": "Central",
+      "stadium": "Progressive Field",
+      "city": "Cleveland",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.4962,
+        "longitude": -81.6852
+      }
+    },
+    {
+      "team": "Colorado Rockies",
+      "conference": "NL",
+      "division": "West",
+      "stadium": "Coors Field",
+      "city": "Denver",
+      "state_province": "CO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.7559,
+        "longitude": -104.9942
+      }
+    },
+    {
+      "team": "Detroit Tigers",
+      "conference": "AL",
+      "division": "Central",
+      "stadium": "Comerica Park",
+      "city": "Detroit",
+      "state_province": "MI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.339,
+        "longitude": -83.0485
+      }
+    },
+    {
+      "team": "Houston Astros",
+      "conference": "AL",
+      "division": "West",
+      "stadium": "Daikin Park",
+      "city": "Houston",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 29.7573,
+        "longitude": -95.3555
+      }
+    },
+    {
+      "team": "Kansas City Royals",
+      "conference": "AL",
+      "division": "Central",
+      "stadium": "Kauffman Stadium",
+      "city": "Kansas City",
+      "state_province": "MO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.0517,
+        "longitude": -94.4803
+      }
+    },
+    {
+      "team": "Los Angeles Angels",
+      "conference": "AL",
+      "division": "West",
+      "stadium": "Angel Stadium",
+      "city": "Anaheim",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.8003,
+        "longitude": -117.8827
+      }
+    },
+    {
+      "team": "Los Angeles Dodgers",
+      "conference": "NL",
+      "division": "West",
+      "stadium": "Dodger Stadium",
+      "city": "Los Angeles",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 34.0739,
+        "longitude": -118.24
+      }
+    },
+    {
+      "team": "Miami Marlins",
+      "conference": "NL",
+      "division": "East",
+      "stadium": "loanDepot Park",
+      "city": "Miami",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 25.7781,
+        "longitude": -80.2197
+      }
+    },
+    {
+      "team": "Milwaukee Brewers",
+      "conference": "NL",
+      "division": "Central",
+      "stadium": "American Family Field",
+      "city": "Milwaukee",
+      "state_province": "WI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 43.028,
+        "longitude": -87.9712
+      }
+    },
+    {
+      "team": "Minnesota Twins",
+      "conference": "AL",
+      "division": "Central",
+      "stadium": "Target Field",
+      "city": "Minneapolis",
+      "state_province": "MN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 44.9817,
+        "longitude": -93.2781
+      }
+    },
+    {
+      "team": "New York Mets",
+      "conference": "NL",
+      "division": "East",
+      "stadium": "Citi Field",
+      "city": "Queens",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7571,
+        "longitude": -73.8458
+      }
+    },
+    {
+      "team": "New York Yankees",
+      "conference": "AL",
+      "division": "East",
+      "stadium": "Yankee Stadium",
+      "city": "Bronx",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.8296,
+        "longitude": -73.9262
+      }
+    },
+    {
+      "team": "Oakland Athletics",
+      "conference": "AL",
+      "division": "West",
+      "stadium": "Sutter Health Park",
+      "city": "West Sacramento",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.5797,
+        "longitude": -121.527
+      }
+    },
+    {
+      "team": "Philadelphia Phillies",
+      "conference": "NL",
+      "division": "East",
+      "stadium": "Citizens Bank Park",
+      "city": "Philadelphia",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9057,
+        "longitude": -75.1665
+      }
+    },
+    {
+      "team": "Pittsburgh Pirates",
+      "conference": "NL",
+      "division": "Central",
+      "stadium": "PNC Park",
+      "city": "Pittsburgh",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.4469,
+        "longitude": -80.0057
+      }
+    },
+    {
+      "team": "San Diego Padres",
+      "conference": "NL",
+      "division": "West",
+      "stadium": "Petco Park",
+      "city": "San Diego",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7073,
+        "longitude": -117.1566
+      }
+    },
+    {
+      "team": "San Francisco Giants",
+      "conference": "NL",
+      "division": "West",
+      "stadium": "Oracle Park",
+      "city": "San Francisco",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 37.7786,
+        "longitude": -122.3893
+      }
+    },
+    {
+      "team": "Seattle Mariners",
+      "conference": "AL",
+      "division": "West",
+      "stadium": "T-Mobile Park",
+      "city": "Seattle",
+      "state_province": "WA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 47.5914,
+        "longitude": -122.3325
+      }
+    },
+    {
+      "team": "St. Louis Cardinals",
+      "conference": "NL",
+      "division": "Central",
+      "stadium": "Busch Stadium",
+      "city": "St. Louis",
+      "state_province": "MO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.6226,
+        "longitude": -90.1928
+      }
+    },
+    {
+      "team": "Tampa Bay Rays",
+      "conference": "AL",
+      "division": "East",
+      "stadium": "George M. Steinbrenner Field",
+      "city": "Tampa",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 27.9982,
+        "longitude": -82.5156
+      }
+    },
+    {
+      "team": "Texas Rangers",
+      "conference": "AL",
+      "division": "West",
+      "stadium": "Globe Life Field",
+      "city": "Arlington",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7473,
+        "longitude": -97.0842
+      }
+    },
+    {
+      "team": "Toronto Blue Jays",
+      "conference": "AL",
+      "division": "East",
+      "stadium": "Rogers Centre",
+      "city": "Toronto",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 43.6414,
+        "longitude": -79.3894
+      }
+    },
+    {
+      "team": "Washington Nationals",
+      "conference": "NL",
+      "division": "East",
+      "stadium": "Nationals Park",
+      "city": "Washington",
+      "state_province": "DC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.873,
+        "longitude": -77.0074
+      }
+    }
+  ]
+}

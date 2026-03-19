@@ -1,0 +1,424 @@
+{
+  "league": "NHL",
+  "season": "2025-26",
+  "generated": "2026-03-19",
+  "count": 32,
+  "venues": [
+    {
+      "team": "Anaheim Ducks",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Honda Center",
+      "city": "Anaheim",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.8077,
+        "longitude": -117.8769
+      }
+    },
+    {
+      "team": "Boston Bruins",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "TD Garden",
+      "city": "Boston",
+      "state_province": "MA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.3662,
+        "longitude": -71.0621
+      }
+    },
+    {
+      "team": "Buffalo Sabres",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "KeyBank Center",
+      "city": "Buffalo",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.8749,
+        "longitude": -78.8765
+      }
+    },
+    {
+      "team": "Calgary Flames",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Scotiabank Saddledome",
+      "city": "Calgary",
+      "state_province": "AB",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 51.0374,
+        "longitude": -114.0519
+      }
+    },
+    {
+      "team": "Carolina Hurricanes",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Lenovo Center",
+      "city": "Raleigh",
+      "state_province": "NC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 35.8031,
+        "longitude": -78.7228
+      }
+    },
+    {
+      "team": "Chicago Blackhawks",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "United Center",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.8806,
+        "longitude": -87.6742
+      }
+    },
+    {
+      "team": "Colorado Avalanche",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Ball Arena",
+      "city": "Denver",
+      "state_province": "CO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.7487,
+        "longitude": -105.0077
+      }
+    },
+    {
+      "team": "Columbus Blue Jackets",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Nationwide Arena",
+      "city": "Columbus",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9693,
+        "longitude": -83.0061
+      }
+    },
+    {
+      "team": "Dallas Stars",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "American Airlines Center",
+      "city": "Dallas",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7905,
+        "longitude": -96.8103
+      }
+    },
+    {
+      "team": "Detroit Red Wings",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Little Caesars Arena",
+      "city": "Detroit",
+      "state_province": "MI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.341,
+        "longitude": -83.0553
+      }
+    },
+    {
+      "team": "Edmonton Oilers",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Rogers Place",
+      "city": "Edmonton",
+      "state_province": "AB",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 53.5469,
+        "longitude": -113.4977
+      }
+    },
+    {
+      "team": "Florida Panthers",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Amerant Bank Arena",
+      "city": "Sunrise",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 26.1584,
+        "longitude": -80.3256
+      }
+    },
+    {
+      "team": "Los Angeles Kings",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Crypto.com Arena",
+      "city": "Los Angeles",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 34.0431,
+        "longitude": -118.2676
+      }
+    },
+    {
+      "team": "Minnesota Wild",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Grand Casino Arena",
+      "city": "St. Paul",
+      "state_province": "MN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 44.9447,
+        "longitude": -93.101
+      }
+    },
+    {
+      "team": "Montreal Canadiens",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Bell Centre",
+      "city": "Montreal",
+      "state_province": "QC",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 45.4961,
+        "longitude": -73.5694
+      }
+    },
+    {
+      "team": "Nashville Predators",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Bridgestone Arena",
+      "city": "Nashville",
+      "state_province": "TN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 36.1592,
+        "longitude": -86.7785
+      }
+    },
+    {
+      "team": "New Jersey Devils",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Prudential Center",
+      "city": "Newark",
+      "state_province": "NJ",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7337,
+        "longitude": -74.1713
+      }
+    },
+    {
+      "team": "New York Islanders",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "UBS Arena",
+      "city": "Elmont",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7198,
+        "longitude": -73.7247
+      }
+    },
+    {
+      "team": "New York Rangers",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Madison Square Garden",
+      "city": "New York",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7505,
+        "longitude": -73.9934
+      }
+    },
+    {
+      "team": "Ottawa Senators",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Canadian Tire Centre",
+      "city": "Ottawa",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 45.2967,
+        "longitude": -75.9272
+      }
+    },
+    {
+      "team": "Philadelphia Flyers",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Xfinity Mobile Arena",
+      "city": "Philadelphia",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9012,
+        "longitude": -75.172
+      }
+    },
+    {
+      "team": "Pittsburgh Penguins",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "PPG Paints Arena",
+      "city": "Pittsburgh",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.4395,
+        "longitude": -79.9892
+      }
+    },
+    {
+      "team": "San Jose Sharks",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "SAP Center",
+      "city": "San Jose",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 37.3329,
+        "longitude": -121.9011
+      }
+    },
+    {
+      "team": "Seattle Kraken",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Climate Pledge Arena",
+      "city": "Seattle",
+      "state_province": "WA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 47.6222,
+        "longitude": -122.3542
+      }
+    },
+    {
+      "team": "St. Louis Blues",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Enterprise Center",
+      "city": "St. Louis",
+      "state_province": "MO",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.627,
+        "longitude": -90.2025
+      }
+    },
+    {
+      "team": "Tampa Bay Lightning",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Benchmark International Arena",
+      "city": "Tampa",
+      "state_province": "FL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 27.9428,
+        "longitude": -82.4519
+      }
+    },
+    {
+      "team": "Toronto Maple Leafs",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "arena": "Scotiabank Arena",
+      "city": "Toronto",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 43.6435,
+        "longitude": -79.3791
+      }
+    },
+    {
+      "team": "Utah Mammoth",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Delta Center",
+      "city": "Salt Lake City",
+      "state_province": "UT",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.7683,
+        "longitude": -111.9011
+      }
+    },
+    {
+      "team": "Vancouver Canucks",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "Rogers Arena",
+      "city": "Vancouver",
+      "state_province": "BC",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 49.2778,
+        "longitude": -123.1088
+      }
+    },
+    {
+      "team": "Vegas Golden Knights",
+      "conference": "Western",
+      "division": "Pacific",
+      "arena": "T-Mobile Arena",
+      "city": "Las Vegas",
+      "state_province": "NV",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 36.1028,
+        "longitude": -115.1784
+      }
+    },
+    {
+      "team": "Washington Capitals",
+      "conference": "Eastern",
+      "division": "Metropolitan",
+      "arena": "Capital One Arena",
+      "city": "Washington",
+      "state_province": "DC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.8981,
+        "longitude": -77.0209
+      }
+    },
+    {
+      "team": "Winnipeg Jets",
+      "conference": "Western",
+      "division": "Central",
+      "arena": "Canada Life Centre",
+      "city": "Winnipeg",
+      "state_province": "MB",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 49.8928,
+        "longitude": -97.1439
+      }
+    }
+  ]
+}
