@@ -15,7 +15,7 @@ def load_league(filepath, list_key, team_col, lat_col, lon_col, league_name):
     df['league'] = league_name
     return df[['league', 'team', 'lat', 'lon']]
 
-# Load each league — adjust parameters to match each file's structure
+# Load each league - adjust parameters to match each file's structure
 nba = load_league('stadiumdata/nba_stadiums.json', 'venues', 'team', 'coordinates.latitude', 'coordinates.longitude', 'NBA')
 nfl = load_league('stadiumdata/nfl_stadiums.json', 'venues', 'team', 'coordinates.latitude', 'coordinates.longitude', 'NFL')
 mlb = load_league('stadiumdata/mlb_stadiums.json', 'venues', 'team', 'coordinates.latitude', 'coordinates.longitude', 'MLB')
@@ -38,6 +38,12 @@ def haversine_vectorized(lat1, lon1, lat2, lon2):
 # Ask user for a reference NFL team
 lg_name = input("Enter a league (NBA, NFL, MLB, NHL, MLS, WNBA): ")
 team_name = input(f"Enter the {lg_name} team name: ")
+head_num = input("How many closest teams to show per league? (hit enter for 1): ")
+if head_num == "":
+    head_num = 1
+else:
+    head_num = int(head_num)
+
 row = lg.loc[(lg['team'] == team_name) & (lg['league'] == lg_name)]
 
 if row.empty:
