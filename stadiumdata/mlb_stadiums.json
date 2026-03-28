@@ -5,10 +5,11 @@
   "count": 30,
   "venues": [
     {
+      "png": "",
       "team": "Arizona Diamondbacks",
       "conference": "NL",
       "division": "West",
-      "stadium": "Chase Field",
+      "venue": "Chase Field",
       "city": "Phoenix",
       "state_province": "AZ",
       "country": "USA",
@@ -18,10 +19,11 @@
       }
     },
     {
+      "png": "logos/mlb/atlantabraves.png",
       "team": "Atlanta Braves",
       "conference": "NL",
       "division": "East",
-      "stadium": "Truist Park",
+      "venue": "Truist Park",
       "city": "Cumberland",
       "state_province": "GA",
       "country": "USA",
@@ -31,10 +33,11 @@
       }
     },
     {
+      "png": "",
       "team": "Baltimore Orioles",
       "conference": "AL",
       "division": "East",
-      "stadium": "Oriole Park at Camden Yards",
+      "venue": "Oriole Park at Camden Yards",
       "city": "Baltimore",
       "state_province": "MD",
       "country": "USA",
@@ -44,10 +47,11 @@
       }
     },
     {
+      "png": "",
       "team": "Boston Red Sox",
       "conference": "AL",
       "division": "East",
-      "stadium": "Fenway Park",
+      "venue": "Fenway Park",
       "city": "Boston",
       "state_province": "MA",
       "country": "USA",
@@ -57,10 +61,11 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago Cubs",
       "conference": "NL",
       "division": "Central",
-      "stadium": "Wrigley Field",
+      "venue": "Wrigley Field",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -70,10 +75,11 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago White Sox",
       "conference": "AL",
       "division": "Central",
-      "stadium": "Rate Field",
+      "venue": "Rate Field",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -83,10 +89,11 @@
       }
     },
     {
+      "png": "",
       "team": "Cincinnati Reds",
       "conference": "NL",
       "division": "Central",
-      "stadium": "Great American Ball Park",
+      "venue": "Great American Ball Park",
       "city": "Cincinnati",
       "state_province": "OH",
       "country": "USA",
@@ -96,10 +103,11 @@
       }
     },
     {
+      "png": "",
       "team": "Cleveland Guardians",
       "conference": "AL",
       "division": "Central",
-      "stadium": "Progressive Field",
+      "venue": "Progressive Field",
       "city": "Cleveland",
       "state_province": "OH",
       "country": "USA",
@@ -109,10 +117,11 @@
       }
     },
     {
+      "png": "",
       "team": "Colorado Rockies",
       "conference": "NL",
       "division": "West",
-      "stadium": "Coors Field",
+      "venue": "Coors Field",
       "city": "Denver",
       "state_province": "CO",
       "country": "USA",
@@ -122,10 +131,11 @@
       }
     },
     {
+      "png": "",
       "team": "Detroit Tigers",
       "conference": "AL",
       "division": "Central",
-      "stadium": "Comerica Park",
+      "venue": "Comerica Park",
       "city": "Detroit",
       "state_province": "MI",
       "country": "USA",
@@ -135,10 +145,11 @@
       }
     },
     {
+      "png": "",
       "team": "Houston Astros",
       "conference": "AL",
       "division": "West",
-      "stadium": "Daikin Park",
+      "venue": "Daikin Park",
       "city": "Houston",
       "state_province": "TX",
       "country": "USA",
@@ -148,10 +159,11 @@
       }
     },
     {
+      "png": "",
       "team": "Kansas City Royals",
       "conference": "AL",
       "division": "Central",
-      "stadium": "Kauffman Stadium",
+      "venue": "Kauffman Stadium",
       "city": "Kansas City",
       "state_province": "MO",
       "country": "USA",
@@ -161,10 +173,11 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Angels",
       "conference": "AL",
       "division": "West",
-      "stadium": "Angel Stadium",
+      "venue": "Angel Stadium",
       "city": "Anaheim",
       "state_province": "CA",
       "country": "USA",
@@ -174,10 +187,11 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Dodgers",
       "conference": "NL",
       "division": "West",
-      "stadium": "Dodger Stadium",
+      "venue": "Dodger Stadium",
       "city": "Los Angeles",
       "state_province": "CA",
       "country": "USA",
@@ -187,10 +201,11 @@
       }
     },
     {
+      "png": "",
       "team": "Miami Marlins",
       "conference": "NL",
       "division": "East",
-      "stadium": "loanDepot Park",
+      "venue": "loanDepot Park",
       "city": "Miami",
       "state_province": "FL",
       "country": "USA",
@@ -200,10 +215,11 @@
       }
     },
     {
+      "png": "",
       "team": "Milwaukee Brewers",
       "conference": "NL",
       "division": "Central",
-      "stadium": "American Family Field",
+      "venue": "American Family Field",
       "city": "Milwaukee",
       "state_province": "WI",
       "country": "USA",
@@ -213,10 +229,11 @@
       }
     },
     {
+      "png": "",
       "team": "Minnesota Twins",
       "conference": "AL",
       "division": "Central",
-      "stadium": "Target Field",
+      "venue": "Target Field",
       "city": "Minneapolis",
       "state_province": "MN",
       "country": "USA",
@@ -226,10 +243,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Mets",
       "conference": "NL",
       "division": "East",
-      "stadium": "Citi Field",
+      "venue": "Citi Field",
       "city": "Queens",
       "state_province": "NY",
       "country": "USA",
@@ -239,10 +257,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Yankees",
       "conference": "AL",
       "division": "East",
-      "stadium": "Yankee Stadium",
+      "venue": "Yankee Stadium",
       "city": "Bronx",
       "state_province": "NY",
       "country": "USA",
@@ -252,10 +271,11 @@
       }
     },
     {
+      "png": "",
       "team": "Oakland Athletics",
       "conference": "AL",
       "division": "West",
-      "stadium": "Sutter Health Park",
+      "venue": "Sutter Health Park",
       "city": "West Sacramento",
       "state_province": "CA",
       "country": "USA",
@@ -265,10 +285,11 @@
       }
     },
     {
+      "png": "",
       "team": "Philadelphia Phillies",
       "conference": "NL",
       "division": "East",
-      "stadium": "Citizens Bank Park",
+      "venue": "Citizens Bank Park",
       "city": "Philadelphia",
       "state_province": "PA",
       "country": "USA",
@@ -278,10 +299,11 @@
       }
     },
     {
+      "png": "",
       "team": "Pittsburgh Pirates",
       "conference": "NL",
       "division": "Central",
-      "stadium": "PNC Park",
+      "venue": "PNC Park",
       "city": "Pittsburgh",
       "state_province": "PA",
       "country": "USA",
@@ -291,10 +313,11 @@
       }
     },
     {
+      "png": "",
       "team": "San Diego Padres",
       "conference": "NL",
       "division": "West",
-      "stadium": "Petco Park",
+      "venue": "Petco Park",
       "city": "San Diego",
       "state_province": "CA",
       "country": "USA",
@@ -304,10 +327,11 @@
       }
     },
     {
+      "png": "",
       "team": "San Francisco Giants",
       "conference": "NL",
       "division": "West",
-      "stadium": "Oracle Park",
+      "venue": "Oracle Park",
       "city": "San Francisco",
       "state_province": "CA",
       "country": "USA",
@@ -317,10 +341,11 @@
       }
     },
     {
+      "png": "",
       "team": "Seattle Mariners",
       "conference": "AL",
       "division": "West",
-      "stadium": "T-Mobile Park",
+      "venue": "T-Mobile Park",
       "city": "Seattle",
       "state_province": "WA",
       "country": "USA",
@@ -330,10 +355,11 @@
       }
     },
     {
+      "png": "",
       "team": "St. Louis Cardinals",
       "conference": "NL",
       "division": "Central",
-      "stadium": "Busch Stadium",
+      "venue": "Busch Stadium",
       "city": "St. Louis",
       "state_province": "MO",
       "country": "USA",
@@ -343,10 +369,11 @@
       }
     },
     {
+      "png": "",
       "team": "Tampa Bay Rays",
       "conference": "AL",
       "division": "East",
-      "stadium": "George M. Steinbrenner Field",
+      "venue": "George M. Steinbrenner Field",
       "city": "Tampa",
       "state_province": "FL",
       "country": "USA",
@@ -356,10 +383,11 @@
       }
     },
     {
+      "png": "",
       "team": "Texas Rangers",
       "conference": "AL",
       "division": "West",
-      "stadium": "Globe Life Field",
+      "venue": "Globe Life Field",
       "city": "Arlington",
       "state_province": "TX",
       "country": "USA",
@@ -369,10 +397,11 @@
       }
     },
     {
+      "png": "",
       "team": "Toronto Blue Jays",
       "conference": "AL",
       "division": "East",
-      "stadium": "Rogers Centre",
+      "venue": "Rogers Centre",
       "city": "Toronto",
       "state_province": "ON",
       "country": "Canada",
@@ -382,10 +411,11 @@
       }
     },
     {
+      "png": "",
       "team": "Washington Nationals",
       "conference": "NL",
       "division": "East",
-      "stadium": "Nationals Park",
+      "venue": "Nationals Park",
       "city": "Washington",
       "state_province": "DC",
       "country": "USA",

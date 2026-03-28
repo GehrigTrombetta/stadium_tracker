@@ -5,9 +5,10 @@
   "count": 15,
   "venues": [
     {
+      "png": "logos/wnba/atlantadream.png",
       "team": "Atlanta Dream",
       "conference": "Eastern",
-      "arena": "Gateway Center Arena",
+      "venue": "Gateway Center Arena",
       "city": "College Park",
       "state_province": "GA",
       "country": "USA",
@@ -17,9 +18,10 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago Sky",
       "conference": "Eastern",
-      "arena": "Wintrust Arena",
+      "venue": "Wintrust Arena",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -29,9 +31,10 @@
       }
     },
     {
+      "png": "",
       "team": "Connecticut Sun",
       "conference": "Eastern",
-      "arena": "Mohegan Sun Arena",
+      "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state_province": "CT",
       "country": "USA",
@@ -41,9 +44,10 @@
       }
     },
     {
+      "png": "",
       "team": "Indiana Fever",
       "conference": "Eastern",
-      "arena": "Gainbridge Fieldhouse",
+      "venue": "Gainbridge Fieldhouse",
       "city": "Indianapolis",
       "state_province": "IN",
       "country": "USA",
@@ -53,9 +57,10 @@
       }
     },
     {
+      "png": "",
       "team": "New York Liberty",
       "conference": "Eastern",
-      "arena": "Barclays Center",
+      "venue": "Barclays Center",
       "city": "Brooklyn",
       "state_province": "NY",
       "country": "USA",
@@ -65,9 +70,10 @@
       }
     },
     {
+      "png": "",
       "team": "Toronto Tempo",
       "conference": "Eastern",
-      "arena": "Coca-Cola Coliseum",
+      "venue": "Coca-Cola Coliseum",
       "city": "Toronto",
       "state_province": "ON",
       "country": "Canada",
@@ -77,9 +83,10 @@
       }
     },
     {
+      "png": "",
       "team": "Washington Mystics",
       "conference": "Eastern",
-      "arena": "CareFirst Arena",
+      "venue": "CareFirst Arena",
       "city": "Washington",
       "state_province": "DC",
       "country": "USA",
@@ -89,9 +96,10 @@
       }
     },
     {
+      "png": "",
       "team": "Dallas Wings",
       "conference": "Western",
-      "arena": "College Park Center",
+      "venue": "College Park Center",
       "city": "Arlington",
       "state_province": "TX",
       "country": "USA",
@@ -101,9 +109,10 @@
       }
     },
     {
+      "png": "",
       "team": "Golden State Valkyries",
       "conference": "Western",
-      "arena": "Chase Center",
+      "venue": "Chase Center",
       "city": "San Francisco",
       "state_province": "CA",
       "country": "USA",
@@ -113,9 +122,10 @@
       }
     },
     {
+      "png": "",
       "team": "Las Vegas Aces",
       "conference": "Western",
-      "arena": "Michelob Ultra Arena",
+      "venue": "Michelob Ultra Arena",
       "city": "Paradise",
       "state_province": "NV",
       "country": "USA",
@@ -125,9 +135,10 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Sparks",
       "conference": "Western",
-      "arena": "Crypto.com Arena",
+      "venue": "Crypto.com Arena",
       "city": "Los Angeles",
       "state_province": "CA",
       "country": "USA",
@@ -137,9 +148,10 @@
       }
     },
     {
+      "png": "",
       "team": "Minnesota Lynx",
       "conference": "Western",
-      "arena": "Target Center",
+      "venue": "Target Center",
       "city": "Minneapolis",
       "state_province": "MN",
       "country": "USA",
@@ -149,9 +161,10 @@
       }
     },
     {
+      "png": "",
       "team": "Phoenix Mercury",
       "conference": "Western",
-      "arena": "Mortgage Matchup Center",
+      "venue": "Mortgage Matchup Center",
       "city": "Phoenix",
       "state_province": "AZ",
       "country": "USA",
@@ -161,9 +174,10 @@
       }
     },
     {
+      "png": "",
       "team": "Portland Fire",
       "conference": "Western",
-      "arena": "Moda Center",
+      "venue": "Moda Center",
       "city": "Portland",
       "state_province": "OR",
       "country": "USA",
@@ -173,9 +187,10 @@
       }
     },
     {
+      "png": "",
       "team": "Seattle Storm",
       "conference": "Western",
-      "arena": "Climate Pledge Arena",
+      "venue": "Climate Pledge Arena",
       "city": "Seattle",
       "state_province": "WA",
       "country": "USA",

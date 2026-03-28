@@ -5,10 +5,11 @@
   "count": 32,
   "venues": [
     {
+      "png": "",
       "team": "Arizona Cardinals",
       "conference": "NFC",
       "division": "West",
-      "stadium": "State Farm Stadium",
+      "venue": "State Farm Stadium",
       "city": "Glendale",
       "state_province": "AZ",
       "country": "USA",
@@ -18,10 +19,11 @@
       }
     },
     {
+      "png": "logos/nfl/atlantafalcons.png",
       "team": "Atlanta Falcons",
       "conference": "NFC",
       "division": "South",
-      "stadium": "Mercedes-Benz Stadium",
+      "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "state_province": "GA",
       "country": "USA",
@@ -31,10 +33,11 @@
       }
     },
     {
+      "png": "",
       "team": "Baltimore Ravens",
       "conference": "AFC",
       "division": "North",
-      "stadium": "M&T Bank Stadium",
+      "venue": "M&T Bank Stadium",
       "city": "Baltimore",
       "state_province": "MD",
       "country": "USA",
@@ -44,10 +47,11 @@
       }
     },
     {
+      "png": "",
       "team": "Buffalo Bills",
       "conference": "AFC",
       "division": "East",
-      "stadium": "Highmark Stadium",
+      "venue": "Highmark Stadium",
       "city": "Orchard Park",
       "state_province": "NY",
       "country": "USA",
@@ -57,10 +61,11 @@
       }
     },
     {
+      "png": "",
       "team": "Carolina Panthers",
       "conference": "NFC",
       "division": "South",
-      "stadium": "Bank of America Stadium",
+      "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "state_province": "NC",
       "country": "USA",
@@ -70,10 +75,11 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago Bears",
       "conference": "NFC",
       "division": "North",
-      "stadium": "Soldier Field",
+      "venue": "Soldier Field",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -83,10 +89,11 @@
       }
     },
     {
+      "png": "",
       "team": "Cincinnati Bengals",
       "conference": "AFC",
       "division": "North",
-      "stadium": "Paycor Stadium",
+      "venue": "Paycor Stadium",
       "city": "Cincinnati",
       "state_province": "OH",
       "country": "USA",
@@ -96,10 +103,11 @@
       }
     },
     {
+      "png": "",
       "team": "Cleveland Browns",
       "conference": "AFC",
       "division": "North",
-      "stadium": "Huntington Bank Field",
+      "venue": "Huntington Bank Field",
       "city": "Cleveland",
       "state_province": "OH",
       "country": "USA",
@@ -109,10 +117,11 @@
       }
     },
     {
+      "png": "",
       "team": "Dallas Cowboys",
       "conference": "NFC",
       "division": "East",
-      "stadium": "AT&T Stadium",
+      "venue": "AT&T Stadium",
       "city": "Arlington",
       "state_province": "TX",
       "country": "USA",
@@ -122,10 +131,11 @@
       }
     },
     {
+      "png": "",
       "team": "Denver Broncos",
       "conference": "AFC",
       "division": "West",
-      "stadium": "Empower Field at Mile High",
+      "venue": "Empower Field at Mile High",
       "city": "Denver",
       "state_province": "CO",
       "country": "USA",
@@ -135,10 +145,11 @@
       }
     },
     {
+      "png": "",
       "team": "Detroit Lions",
       "conference": "NFC",
       "division": "North",
-      "stadium": "Ford Field",
+      "venue": "Ford Field",
       "city": "Detroit",
       "state_province": "MI",
       "country": "USA",
@@ -148,10 +159,11 @@
       }
     },
     {
+      "png": "",
       "team": "Green Bay Packers",
       "conference": "NFC",
       "division": "North",
-      "stadium": "Lambeau Field",
+      "venue": "Lambeau Field",
       "city": "Green Bay",
       "state_province": "WI",
       "country": "USA",
@@ -161,10 +173,11 @@
       }
     },
     {
+      "png": "",
       "team": "Houston Texans",
       "conference": "AFC",
       "division": "South",
-      "stadium": "NRG Stadium",
+      "venue": "NRG Stadium",
       "city": "Houston",
       "state_province": "TX",
       "country": "USA",
@@ -174,10 +187,11 @@
       }
     },
     {
+      "png": "",
       "team": "Indianapolis Colts",
       "conference": "AFC",
       "division": "South",
-      "stadium": "Lucas Oil Stadium",
+      "venue": "Lucas Oil Stadium",
       "city": "Indianapolis",
       "state_province": "IN",
       "country": "USA",
@@ -187,10 +201,11 @@
       }
     },
     {
+      "png": "",
       "team": "Jacksonville Jaguars",
       "conference": "AFC",
       "division": "South",
-      "stadium": "EverBank Stadium",
+      "venue": "EverBank Stadium",
       "city": "Jacksonville",
       "state_province": "FL",
       "country": "USA",
@@ -200,10 +215,11 @@
       }
     },
     {
+      "png": "",
       "team": "Kansas City Chiefs",
       "conference": "AFC",
       "division": "West",
-      "stadium": "Arrowhead Stadium",
+      "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "state_province": "MO",
       "country": "USA",
@@ -213,10 +229,11 @@
       }
     },
     {
+      "png": "",
       "team": "Las Vegas Raiders",
       "conference": "AFC",
       "division": "West",
-      "stadium": "Allegiant Stadium",
+      "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "state_province": "NV",
       "country": "USA",
@@ -226,10 +243,11 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Chargers",
       "conference": "AFC",
       "division": "West",
-      "stadium": "SoFi Stadium",
+      "venue": "SoFi Stadium",
       "city": "Inglewood",
       "state_province": "CA",
       "country": "USA",
@@ -239,10 +257,11 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Rams",
       "conference": "NFC",
       "division": "West",
-      "stadium": "SoFi Stadium",
+      "venue": "SoFi Stadium",
       "city": "Inglewood",
       "state_province": "CA",
       "country": "USA",
@@ -252,10 +271,11 @@
       }
     },
     {
+      "png": "",
       "team": "Miami Dolphins",
       "conference": "AFC",
       "division": "East",
-      "stadium": "Hard Rock Stadium",
+      "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "state_province": "FL",
       "country": "USA",
@@ -265,10 +285,11 @@
       }
     },
     {
+      "png": "",
       "team": "Minnesota Vikings",
       "conference": "NFC",
       "division": "North",
-      "stadium": "U.S. Bank Stadium",
+      "venue": "U.S. Bank Stadium",
       "city": "Minneapolis",
       "state_province": "MN",
       "country": "USA",
@@ -278,10 +299,11 @@
       }
     },
     {
+      "png": "",
       "team": "New England Patriots",
       "conference": "AFC",
       "division": "East",
-      "stadium": "Gillette Stadium",
+      "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state_province": "MA",
       "country": "USA",
@@ -291,10 +313,11 @@
       }
     },
     {
+      "png": "",
       "team": "New Orleans Saints",
       "conference": "NFC",
       "division": "South",
-      "stadium": "Caesars Superdome",
+      "venue": "Caesars Superdome",
       "city": "New Orleans",
       "state_province": "LA",
       "country": "USA",
@@ -304,10 +327,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Giants",
       "conference": "NFC",
       "division": "East",
-      "stadium": "MetLife Stadium",
+      "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state_province": "NJ",
       "country": "USA",
@@ -317,10 +341,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Jets",
       "conference": "AFC",
       "division": "East",
-      "stadium": "MetLife Stadium",
+      "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "state_province": "NJ",
       "country": "USA",
@@ -330,10 +355,11 @@
       }
     },
     {
+      "png": "",
       "team": "Philadelphia Eagles",
       "conference": "NFC",
       "division": "East",
-      "stadium": "Lincoln Financial Field",
+      "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state_province": "PA",
       "country": "USA",
@@ -343,10 +369,11 @@
       }
     },
     {
+      "png": "",
       "team": "Pittsburgh Steelers",
       "conference": "AFC",
       "division": "North",
-      "stadium": "Acrisure Stadium",
+      "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "state_province": "PA",
       "country": "USA",
@@ -356,10 +383,11 @@
       }
     },
     {
+      "png": "",
       "team": "San Francisco 49ers",
       "conference": "NFC",
       "division": "West",
-      "stadium": "Levi's Stadium",
+      "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "state_province": "CA",
       "country": "USA",
@@ -369,10 +397,11 @@
       }
     },
     {
+      "png": "",
       "team": "Seattle Seahawks",
       "conference": "NFC",
       "division": "West",
-      "stadium": "Lumen Field",
+      "venue": "Lumen Field",
       "city": "Seattle",
       "state_province": "WA",
       "country": "USA",
@@ -382,10 +411,11 @@
       }
     },
     {
+      "png": "",
       "team": "Tampa Bay Buccaneers",
       "conference": "NFC",
       "division": "South",
-      "stadium": "Raymond James Stadium",
+      "venue": "Raymond James Stadium",
       "city": "Tampa",
       "state_province": "FL",
       "country": "USA",
@@ -395,10 +425,11 @@
       }
     },
     {
+      "png": "",
       "team": "Tennessee Titans",
       "conference": "AFC",
       "division": "South",
-      "stadium": "Nissan Stadium",
+      "venue": "Nissan Stadium",
       "city": "Nashville",
       "state_province": "TN",
       "country": "USA",
@@ -408,10 +439,11 @@
       }
     },
     {
+      "png": "",
       "team": "Washington Commanders",
       "conference": "NFC",
       "division": "East",
-      "stadium": "Northwest Stadium",
+      "venue": "Northwest Stadium",
       "city": "Landover",
       "state_province": "MD",
       "country": "USA",

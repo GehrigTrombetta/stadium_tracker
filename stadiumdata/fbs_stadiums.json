@@ -8,7 +8,7 @@
     {
       "school": "Boston College",
       "conference": "ACC",
-      "stadium": "Alumni Stadium",
+      "venue": "Alumni Stadium",
       "city": "Chestnut Hill",
       "state": "MA",
       "coordinates": {
@@ -19,7 +19,7 @@
     {
       "school": "California",
       "conference": "ACC",
-      "stadium": "California Memorial Stadium",
+      "venue": "California Memorial Stadium",
       "city": "Berkeley",
       "state": "CA",
       "coordinates": {
@@ -30,7 +30,7 @@
     {
       "school": "Clemson",
       "conference": "ACC",
-      "stadium": "Memorial Stadium",
+      "venue": "Memorial Stadium",
       "city": "Clemson",
       "state": "SC",
       "coordinates": {
@@ -41,7 +41,7 @@
     {
       "school": "Duke",
       "conference": "ACC",
-      "stadium": "Wallace Wade Stadium",
+      "venue": "Wallace Wade Stadium",
       "city": "Durham",
       "state": "NC",
       "coordinates": {
@@ -52,7 +52,7 @@
     {
       "school": "Florida State",
       "conference": "ACC",
-      "stadium": "Doak Campbell Stadium",
+      "venue": "Doak Campbell Stadium",
       "city": "Tallahassee",
       "state": "FL",
       "coordinates": {
@@ -63,7 +63,7 @@
     {
       "school": "Georgia Tech",
       "conference": "ACC",
-      "stadium": "Bobby Dodd Stadium at Historic Grant Field",
+      "venue": "Bobby Dodd Stadium at Historic Grant Field",
       "city": "Atlanta",
       "state": "GA",
       "coordinates": {
@@ -74,7 +74,7 @@
     {
       "school": "Louisville",
       "conference": "ACC",
-      "stadium": "L&N Federal Credit Union Stadium",
+      "venue": "L&N Federal Credit Union Stadium",
       "city": "Louisville",
       "state": "KY",
       "coordinates": {
@@ -85,7 +85,7 @@
     {
       "school": "Miami (FL)",
       "conference": "ACC",
-      "stadium": "Hard Rock Stadium",
+      "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "state": "FL",
       "coordinates": {
@@ -96,7 +96,7 @@
     {
       "school": "NC State",
       "conference": "ACC",
-      "stadium": "Carter-Finley Stadium",
+      "venue": "Carter-Finley Stadium",
       "city": "Raleigh",
       "state": "NC",
       "coordinates": {
@@ -107,7 +107,7 @@
     {
       "school": "North Carolina",
       "conference": "ACC",
-      "stadium": "Kenan Memorial Stadium",
+      "venue": "Kenan Memorial Stadium",
       "city": "Chapel Hill",
       "state": "NC",
       "coordinates": {
@@ -118,7 +118,7 @@
     {
       "school": "Notre Dame",
       "conference": "Independent",
-      "stadium": "Notre Dame Stadium",
+      "venue": "Notre Dame Stadium",
       "city": "Notre Dame",
       "state": "IN",
       "coordinates": {
@@ -129,7 +129,7 @@
     {
       "school": "Pitt",
       "conference": "ACC",
-      "stadium": "Acrisure Stadium",
+      "venue": "Acrisure Stadium",
       "city": "Pittsburgh",
       "state": "PA",
       "coordinates": {
@@ -140,7 +140,7 @@
     {
       "school": "SMU",
       "conference": "ACC",
-      "stadium": "Gerald J. Ford Stadium",
+      "venue": "Gerald J. Ford Stadium",
       "city": "Dallas",
       "state": "TX",
       "coordinates": {
@@ -151,7 +151,7 @@
     {
       "school": "Stanford",
       "conference": "ACC",
-      "stadium": "Stanford Stadium",
+      "venue": "Stanford Stadium",
       "city": "Stanford",
       "state": "CA",
       "coordinates": {
@@ -162,7 +162,7 @@
     {
       "school": "Syracuse",
       "conference": "ACC",
-      "stadium": "JMA Wireless Dome",
+      "venue": "JMA Wireless Dome",
       "city": "Syracuse",
       "state": "NY",
       "coordinates": {
@@ -173,7 +173,7 @@
     {
       "school": "Virginia",
       "conference": "ACC",
-      "stadium": "Scott Stadium",
+      "venue": "Scott Stadium",
       "city": "Charlottesville",
       "state": "VA",
       "coordinates": {
@@ -184,7 +184,7 @@
     {
       "school": "Virginia Tech",
       "conference": "ACC",
-      "stadium": "Lane Stadium",
+      "venue": "Lane Stadium",
       "city": "Blacksburg",
       "state": "VA",
       "coordinates": {
@@ -195,7 +195,7 @@
     {
       "school": "Wake Forest",
       "conference": "ACC",
-      "stadium": "Truist Field",
+      "venue": "Truist Field",
       "city": "Winston-Salem",
       "state": "NC",
       "coordinates": {
@@ -206,7 +206,7 @@
     {
       "school": "Charlotte",
       "conference": "American Athletic",
-      "stadium": "Jerry Richardson Stadium",
+      "venue": "Jerry Richardson Stadium",
       "city": "Charlotte",
       "state": "NC",
       "coordinates": {
@@ -217,7 +217,7 @@
     {
       "school": "East Carolina",
       "conference": "American Athletic",
-      "stadium": "Dowdy-Ficklen Stadium",
+      "venue": "Dowdy-Ficklen Stadium",
       "city": "Greenville",
       "state": "NC",
       "coordinates": {
@@ -228,7 +228,7 @@
     {
       "school": "Florida Atlantic",
       "conference": "American Athletic",
-      "stadium": "FAU Stadium",
+      "venue": "FAU Stadium",
       "city": "Boca Raton",
       "state": "FL",
       "coordinates": {
@@ -239,7 +239,7 @@
     {
       "school": "Memphis",
       "conference": "American Athletic",
-      "stadium": "Simmons Bank Liberty Stadium",
+      "venue": "Simmons Bank Liberty Stadium",
       "city": "Memphis",
       "state": "TN",
       "coordinates": {
@@ -250,7 +250,7 @@
     {
       "school": "Navy",
       "conference": "American Athletic",
-      "stadium": "Navy-Marine Corps Memorial Stadium",
+      "venue": "Navy-Marine Corps Memorial Stadium",
       "city": "Annapolis",
       "state": "MD",
       "coordinates": {
@@ -261,7 +261,7 @@
     {
       "school": "North Texas",
       "conference": "American Athletic",
-      "stadium": "Apogee Stadium",
+      "venue": "Apogee Stadium",
       "city": "Denton",
       "state": "TX",
       "coordinates": {
@@ -272,7 +272,7 @@
     {
       "school": "Rice",
       "conference": "American Athletic",
-      "stadium": "Rice Stadium",
+      "venue": "Rice Stadium",
       "city": "Houston",
       "state": "TX",
       "coordinates": {
@@ -283,7 +283,7 @@
     {
       "school": "South Florida",
       "conference": "American Athletic",
-      "stadium": "Raymond James Stadium",
+      "venue": "Raymond James Stadium",
       "city": "Tampa",
       "state": "FL",
       "coordinates": {
@@ -294,7 +294,7 @@
     {
       "school": "Temple",
       "conference": "American Athletic",
-      "stadium": "Lincoln Financial Field",
+      "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "state": "PA",
       "coordinates": {
@@ -305,7 +305,7 @@
     {
       "school": "Tulane",
       "conference": "American Athletic",
-      "stadium": "Yulman Stadium",
+      "venue": "Yulman Stadium",
       "city": "New Orleans",
       "state": "LA",
       "coordinates": {
@@ -316,7 +316,7 @@
     {
       "school": "Tulsa",
       "conference": "American Athletic",
-      "stadium": "Skelly Field at H.A. Chapman Stadium",
+      "venue": "Skelly Field at H.A. Chapman Stadium",
       "city": "Tulsa",
       "state": "OK",
       "coordinates": {
@@ -327,7 +327,7 @@
     {
       "school": "UAB",
       "conference": "American Athletic",
-      "stadium": "Protective Stadium",
+      "venue": "Protective Stadium",
       "city": "Birmingham",
       "state": "AL",
       "coordinates": {
@@ -338,7 +338,7 @@
     {
       "school": "UCF",
       "conference": "Big 12",
-      "stadium": "FBC Mortgage Stadium",
+      "venue": "FBC Mortgage Stadium",
       "city": "Orlando",
       "state": "FL",
       "coordinates": {
@@ -349,7 +349,7 @@
     {
       "school": "Wichita State",
       "conference": "American Athletic",
-      "stadium": "Cessna Stadium",
+      "venue": "Cessna Stadium",
       "city": "Wichita",
       "state": "KS",
       "coordinates": {
@@ -360,7 +360,7 @@
     {
       "school": "Arizona",
       "conference": "Big 12",
-      "stadium": "Arizona Stadium",
+      "venue": "Arizona Stadium",
       "city": "Tucson",
       "state": "AZ",
       "coordinates": {
@@ -371,7 +371,7 @@
     {
       "school": "Arizona State",
       "conference": "Big 12",
-      "stadium": "Mountain America Stadium",
+      "venue": "Mountain America Stadium",
       "city": "Tempe",
       "state": "AZ",
       "coordinates": {
@@ -382,7 +382,7 @@
     {
       "school": "Baylor",
       "conference": "Big 12",
-      "stadium": "McLane Stadium",
+      "venue": "McLane Stadium",
       "city": "Waco",
       "state": "TX",
       "coordinates": {
@@ -393,7 +393,7 @@
     {
       "school": "BYU",
       "conference": "Big 12",
-      "stadium": "LaVell Edwards Stadium",
+      "venue": "LaVell Edwards Stadium",
       "city": "Provo",
       "state": "UT",
       "coordinates": {
@@ -404,7 +404,7 @@
     {
       "school": "Cincinnati",
       "conference": "Big 12",
-      "stadium": "Nippert Stadium",
+      "venue": "Nippert Stadium",
       "city": "Cincinnati",
       "state": "OH",
       "coordinates": {
@@ -415,7 +415,7 @@
     {
       "school": "Colorado",
       "conference": "Big 12",
-      "stadium": "Folsom Field",
+      "venue": "Folsom Field",
       "city": "Boulder",
       "state": "CO",
       "coordinates": {
@@ -426,7 +426,7 @@
     {
       "school": "Houston",
       "conference": "Big 12",
-      "stadium": "TDECU Stadium",
+      "venue": "TDECU Stadium",
       "city": "Houston",
       "state": "TX",
       "coordinates": {
@@ -437,7 +437,7 @@
     {
       "school": "Iowa State",
       "conference": "Big 12",
-      "stadium": "Jack Trice Stadium",
+      "venue": "Jack Trice Stadium",
       "city": "Ames",
       "state": "IA",
       "coordinates": {
@@ -448,7 +448,7 @@
     {
       "school": "Kansas",
       "conference": "Big 12",
-      "stadium": "David Booth Kansas Memorial Stadium",
+      "venue": "David Booth Kansas Memorial Stadium",
       "city": "Lawrence",
       "state": "KS",
       "coordinates": {
@@ -459,7 +459,7 @@
     {
       "school": "Kansas State",
       "conference": "Big 12",
-      "stadium": "Bill Snyder Family Stadium",
+      "venue": "Bill Snyder Family Stadium",
       "city": "Manhattan",
       "state": "KS",
       "coordinates": {
@@ -470,7 +470,7 @@
     {
       "school": "Oklahoma",
       "conference": "SEC",
-      "stadium": "Gaylord Family Oklahoma Memorial Stadium",
+      "venue": "Gaylord Family Oklahoma Memorial Stadium",
       "city": "Norman",
       "state": "OK",
       "coordinates": {
@@ -481,7 +481,7 @@
     {
       "school": "Oklahoma State",
       "conference": "Big 12",
-      "stadium": "Boone Pickens Stadium",
+      "venue": "Boone Pickens Stadium",
       "city": "Stillwater",
       "state": "OK",
       "coordinates": {
@@ -492,7 +492,7 @@
     {
       "school": "TCU",
       "conference": "Big 12",
-      "stadium": "Amon G. Carter Stadium",
+      "venue": "Amon G. Carter Stadium",
       "city": "Fort Worth",
       "state": "TX",
       "coordinates": {
@@ -503,7 +503,7 @@
     {
       "school": "Texas",
       "conference": "SEC",
-      "stadium": "Darrell K Royal–Texas Memorial Stadium",
+      "venue": "Darrell K Royal–Texas Memorial Stadium",
       "city": "Austin",
       "state": "TX",
       "coordinates": {
@@ -514,7 +514,7 @@
     {
       "school": "Texas Tech",
       "conference": "Big 12",
-      "stadium": "Jones AT&T Stadium",
+      "venue": "Jones AT&T Stadium",
       "city": "Lubbock",
       "state": "TX",
       "coordinates": {
@@ -525,7 +525,7 @@
     {
       "school": "Utah",
       "conference": "Big 12",
-      "stadium": "Rice-Eccles Stadium",
+      "venue": "Rice-Eccles Stadium",
       "city": "Salt Lake City",
       "state": "UT",
       "coordinates": {
@@ -536,7 +536,7 @@
     {
       "school": "West Virginia",
       "conference": "Big 12",
-      "stadium": "Milan Puskar Stadium",
+      "venue": "Milan Puskar Stadium",
       "city": "Morgantown",
       "state": "WV",
       "coordinates": {
@@ -547,7 +547,7 @@
     {
       "school": "Illinois",
       "conference": "Big Ten",
-      "stadium": "Memorial Stadium",
+      "venue": "Memorial Stadium",
       "city": "Champaign",
       "state": "IL",
       "coordinates": {
@@ -558,7 +558,7 @@
     {
       "school": "Indiana",
       "conference": "Big Ten",
-      "stadium": "Memorial Stadium",
+      "venue": "Memorial Stadium",
       "city": "Bloomington",
       "state": "IN",
       "coordinates": {
@@ -569,7 +569,7 @@
     {
       "school": "Iowa",
       "conference": "Big Ten",
-      "stadium": "Kinnick Stadium",
+      "venue": "Kinnick Stadium",
       "city": "Iowa City",
       "state": "IA",
       "coordinates": {
@@ -580,7 +580,7 @@
     {
       "school": "Maryland",
       "conference": "Big Ten",
-      "stadium": "SECU Stadium",
+      "venue": "SECU Stadium",
       "city": "College Park",
       "state": "MD",
       "coordinates": {
@@ -591,7 +591,7 @@
     {
       "school": "Michigan",
       "conference": "Big Ten",
-      "stadium": "Michigan Stadium",
+      "venue": "Michigan Stadium",
       "city": "Ann Arbor",
       "state": "MI",
       "coordinates": {
@@ -602,7 +602,7 @@
     {
       "school": "Michigan State",
       "conference": "Big Ten",
-      "stadium": "Spartan Stadium",
+      "venue": "Spartan Stadium",
       "city": "East Lansing",
       "state": "MI",
       "coordinates": {
@@ -613,7 +613,7 @@
     {
       "school": "Minnesota",
       "conference": "Big Ten",
-      "stadium": "Huntington Bank Stadium",
+      "venue": "Huntington Bank Stadium",
       "city": "Minneapolis",
       "state": "MN",
       "coordinates": {
@@ -624,7 +624,7 @@
     {
       "school": "Nebraska",
       "conference": "Big Ten",
-      "stadium": "Memorial Stadium",
+      "venue": "Memorial Stadium",
       "city": "Lincoln",
       "state": "NE",
       "coordinates": {
@@ -635,7 +635,7 @@
     {
       "school": "Northwestern",
       "conference": "Big Ten",
-      "stadium": "Ryan Field",
+      "venue": "Ryan Field",
       "city": "Evanston",
       "state": "IL",
       "coordinates": {
@@ -646,7 +646,7 @@
     {
       "school": "Ohio State",
       "conference": "Big Ten",
-      "stadium": "Ohio Stadium",
+      "venue": "Ohio Stadium",
       "city": "Columbus",
       "state": "OH",
       "coordinates": {
@@ -657,7 +657,7 @@
     {
       "school": "Oregon",
       "conference": "Big Ten",
-      "stadium": "Autzen Stadium",
+      "venue": "Autzen Stadium",
       "city": "Eugene",
       "state": "OR",
       "coordinates": {
@@ -668,7 +668,7 @@
     {
       "school": "Penn State",
       "conference": "Big Ten",
-      "stadium": "Beaver Stadium",
+      "venue": "Beaver Stadium",
       "city": "University Park",
       "state": "PA",
       "coordinates": {
@@ -679,7 +679,7 @@
     {
       "school": "Purdue",
       "conference": "Big Ten",
-      "stadium": "Ross-Ade Stadium",
+      "venue": "Ross-Ade Stadium",
       "city": "West Lafayette",
       "state": "IN",
       "coordinates": {
@@ -690,7 +690,7 @@
     {
       "school": "Rutgers",
       "conference": "Big Ten",
-      "stadium": "SHI Stadium",
+      "venue": "SHI Stadium",
       "city": "Piscataway",
       "state": "NJ",
       "coordinates": {
@@ -701,7 +701,7 @@
     {
       "school": "UCLA",
       "conference": "Big Ten",
-      "stadium": "Rose Bowl Stadium",
+      "venue": "Rose Bowl Stadium",
       "city": "Pasadena",
       "state": "CA",
       "coordinates": {
@@ -712,7 +712,7 @@
     {
       "school": "USC",
       "conference": "Big Ten",
-      "stadium": "Los Angeles Memorial Coliseum",
+      "venue": "Los Angeles Memorial Coliseum",
       "city": "Los Angeles",
       "state": "CA",
       "coordinates": {
@@ -723,7 +723,7 @@
     {
       "school": "Washington",
       "conference": "Big Ten",
-      "stadium": "Husky Stadium",
+      "venue": "Husky Stadium",
       "city": "Seattle",
       "state": "WA",
       "coordinates": {
@@ -734,7 +734,7 @@
     {
       "school": "Wisconsin",
       "conference": "Big Ten",
-      "stadium": "Camp Randall Stadium",
+      "venue": "Camp Randall Stadium",
       "city": "Madison",
       "state": "WI",
       "coordinates": {
@@ -745,7 +745,7 @@
     {
       "school": "FIU",
       "conference": "Conference USA",
-      "stadium": "Ricardo Silva Stadium",
+      "venue": "Ricardo Silva Stadium",
       "city": "Miami",
       "state": "FL",
       "coordinates": {
@@ -756,7 +756,7 @@
     {
       "school": "Jacksonville State",
       "conference": "Conference USA",
-      "stadium": "Burgess-Snow Field at Jacksonville State Stadium",
+      "venue": "Burgess-Snow Field at Jacksonville State Stadium",
       "city": "Jacksonville",
       "state": "AL",
       "coordinates": {
@@ -767,7 +767,7 @@
     {
       "school": "Louisiana Tech",
       "conference": "Conference USA",
-      "stadium": "Joe Aillet Stadium",
+      "venue": "Joe Aillet Stadium",
       "city": "Ruston",
       "state": "LA",
       "coordinates": {
@@ -778,7 +778,7 @@
     {
       "school": "Middle Tennessee",
       "conference": "Conference USA",
-      "stadium": "Floyd Stadium",
+      "venue": "Floyd Stadium",
       "city": "Murfreesboro",
       "state": "TN",
       "coordinates": {
@@ -789,7 +789,7 @@
     {
       "school": "New Mexico State",
       "conference": "Conference USA",
-      "stadium": "Aggie Memorial Stadium",
+      "venue": "Aggie Memorial Stadium",
       "city": "Las Cruces",
       "state": "NM",
       "coordinates": {
@@ -800,7 +800,7 @@
     {
       "school": "Sam Houston",
       "conference": "Conference USA",
-      "stadium": "Bowers Stadium",
+      "venue": "Bowers Stadium",
       "city": "Huntsville",
       "state": "TX",
       "coordinates": {
@@ -811,7 +811,7 @@
     {
       "school": "Western Kentucky",
       "conference": "Conference USA",
-      "stadium": "Houchens Industries–L.T. Smith Stadium",
+      "venue": "Houchens Industries–L.T. Smith Stadium",
       "city": "Bowling Green",
       "state": "KY",
       "coordinates": {
@@ -822,7 +822,7 @@
     {
       "school": "Akron",
       "conference": "MAC",
-      "stadium": "Summa Field at InfoCision Stadium",
+      "venue": "Summa Field at InfoCision Stadium",
       "city": "Akron",
       "state": "OH",
       "coordinates": {
@@ -833,7 +833,7 @@
     {
       "school": "Ball State",
       "conference": "MAC",
-      "stadium": "Scheumann Stadium",
+      "venue": "Scheumann Stadium",
       "city": "Muncie",
       "state": "IN",
       "coordinates": {
@@ -844,7 +844,7 @@
     {
       "school": "Bowling Green",
       "conference": "MAC",
-      "stadium": "Doyt L. Perry Stadium",
+      "venue": "Doyt L. Perry Stadium",
       "city": "Bowling Green",
       "state": "OH",
       "coordinates": {
@@ -855,7 +855,7 @@
     {
       "school": "Buffalo",
       "conference": "MAC",
-      "stadium": "UB Stadium",
+      "venue": "UB Stadium",
       "city": "Amherst",
       "state": "NY",
       "coordinates": {
@@ -866,7 +866,7 @@
     {
       "school": "Central Michigan",
       "conference": "MAC",
-      "stadium": "Kelly/Shorts Stadium",
+      "venue": "Kelly/Shorts Stadium",
       "city": "Mount Pleasant",
       "state": "MI",
       "coordinates": {
@@ -877,7 +877,7 @@
     {
       "school": "Eastern Michigan",
       "conference": "MAC",
-      "stadium": "Rynearson Stadium",
+      "venue": "Rynearson Stadium",
       "city": "Ypsilanti",
       "state": "MI",
       "coordinates": {
@@ -888,7 +888,7 @@
     {
       "school": "Kent State",
       "conference": "MAC",
-      "stadium": "Dix Stadium",
+      "venue": "Dix Stadium",
       "city": "Kent",
       "state": "OH",
       "coordinates": {
@@ -899,7 +899,7 @@
     {
       "school": "Miami (OH)",
       "conference": "MAC",
-      "stadium": "Yager Stadium",
+      "venue": "Yager Stadium",
       "city": "Oxford",
       "state": "OH",
       "coordinates": {
@@ -910,7 +910,7 @@
     {
       "school": "Northern Illinois",
       "conference": "MAC",
-      "stadium": "Huskie Stadium",
+      "venue": "Huskie Stadium",
       "city": "DeKalb",
       "state": "IL",
       "coordinates": {
@@ -921,7 +921,7 @@
     {
       "school": "Ohio",
       "conference": "MAC",
-      "stadium": "Peden Stadium",
+      "venue": "Peden Stadium",
       "city": "Athens",
       "state": "OH",
       "coordinates": {
@@ -932,7 +932,7 @@
     {
       "school": "Toledo",
       "conference": "MAC",
-      "stadium": "Glass Bowl",
+      "venue": "Glass Bowl",
       "city": "Toledo",
       "state": "OH",
       "coordinates": {
@@ -943,7 +943,7 @@
     {
       "school": "Western Michigan",
       "conference": "MAC",
-      "stadium": "Waldo Stadium",
+      "venue": "Waldo Stadium",
       "city": "Kalamazoo",
       "state": "MI",
       "coordinates": {
@@ -954,7 +954,7 @@
     {
       "school": "Air Force",
       "conference": "Mountain West",
-      "stadium": "Falcon Stadium",
+      "venue": "Falcon Stadium",
       "city": "Colorado Springs",
       "state": "CO",
       "coordinates": {
@@ -965,7 +965,7 @@
     {
       "school": "Boise State",
       "conference": "Mountain West",
-      "stadium": "Albertsons Stadium",
+      "venue": "Albertsons Stadium",
       "city": "Boise",
       "state": "ID",
       "coordinates": {
@@ -976,7 +976,7 @@
     {
       "school": "Colorado State",
       "conference": "Mountain West",
-      "stadium": "Canvas Stadium",
+      "venue": "Canvas Stadium",
       "city": "Fort Collins",
       "state": "CO",
       "coordinates": {
@@ -987,7 +987,7 @@
     {
       "school": "Fresno State",
       "conference": "Mountain West",
-      "stadium": "Valley Children's Stadium",
+      "venue": "Valley Children's Stadium",
       "city": "Fresno",
       "state": "CA",
       "coordinates": {
@@ -998,7 +998,7 @@
     {
       "school": "Hawaii",
       "conference": "Mountain West",
-      "stadium": "Clarence T.C. Ching Athletics Complex",
+      "venue": "Clarence T.C. Ching Athletics Complex",
       "city": "Honolulu",
       "state": "HI",
       "coordinates": {
@@ -1009,7 +1009,7 @@
     {
       "school": "Nevada",
       "conference": "Mountain West",
-      "stadium": "Mackay Stadium",
+      "venue": "Mackay Stadium",
       "city": "Reno",
       "state": "NV",
       "coordinates": {
@@ -1020,7 +1020,7 @@
     {
       "school": "New Mexico",
       "conference": "Mountain West",
-      "stadium": "University Stadium",
+      "venue": "University Stadium",
       "city": "Albuquerque",
       "state": "NM",
       "coordinates": {
@@ -1031,7 +1031,7 @@
     {
       "school": "San Diego State",
       "conference": "Mountain West",
-      "stadium": "Snapdragon Stadium",
+      "venue": "Snapdragon Stadium",
       "city": "San Diego",
       "state": "CA",
       "coordinates": {
@@ -1042,7 +1042,7 @@
     {
       "school": "San Jose State",
       "conference": "Mountain West",
-      "stadium": "CEFCU Stadium",
+      "venue": "CEFCU Stadium",
       "city": "San Jose",
       "state": "CA",
       "coordinates": {
@@ -1053,7 +1053,7 @@
     {
       "school": "UNLV",
       "conference": "Mountain West",
-      "stadium": "Allegiant Stadium",
+      "venue": "Allegiant Stadium",
       "city": "Las Vegas",
       "state": "NV",
       "coordinates": {
@@ -1064,7 +1064,7 @@
     {
       "school": "Utah State",
       "conference": "Mountain West",
-      "stadium": "Maverik Stadium",
+      "venue": "Maverik Stadium",
       "city": "Logan",
       "state": "UT",
       "coordinates": {
@@ -1075,7 +1075,7 @@
     {
       "school": "Wyoming",
       "conference": "Mountain West",
-      "stadium": "War Memorial Stadium",
+      "venue": "War Memorial Stadium",
       "city": "Laramie",
       "state": "WY",
       "coordinates": {
@@ -1086,7 +1086,7 @@
     {
       "school": "Oregon State",
       "conference": "Pac-12",
-      "stadium": "Reser Stadium",
+      "venue": "Reser Stadium",
       "city": "Corvallis",
       "state": "OR",
       "coordinates": {
@@ -1097,7 +1097,7 @@
     {
       "school": "Washington State",
       "conference": "Pac-12",
-      "stadium": "Gesa Field at Martin Stadium",
+      "venue": "Gesa Field at Martin Stadium",
       "city": "Pullman",
       "state": "WA",
       "coordinates": {
@@ -1108,7 +1108,7 @@
     {
       "school": "Alabama",
       "conference": "SEC",
-      "stadium": "Bryant-Denny Stadium",
+      "venue": "Bryant-Denny Stadium",
       "city": "Tuscaloosa",
       "state": "AL",
       "coordinates": {
@@ -1119,7 +1119,7 @@
     {
       "school": "Arkansas",
       "conference": "SEC",
-      "stadium": "Donald W. Reynolds Razorback Stadium",
+      "venue": "Donald W. Reynolds Razorback Stadium",
       "city": "Fayetteville",
       "state": "AR",
       "coordinates": {
@@ -1130,7 +1130,7 @@
     {
       "school": "Auburn",
       "conference": "SEC",
-      "stadium": "Jordan-Hare Stadium",
+      "venue": "Jordan-Hare Stadium",
       "city": "Auburn",
       "state": "AL",
       "coordinates": {
@@ -1141,7 +1141,7 @@
     {
       "school": "Florida",
       "conference": "SEC",
-      "stadium": "Ben Hill Griffin Stadium",
+      "venue": "Ben Hill Griffin Stadium",
       "city": "Gainesville",
       "state": "FL",
       "coordinates": {
@@ -1152,7 +1152,7 @@
     {
       "school": "Georgia",
       "conference": "SEC",
-      "stadium": "Sanford Stadium",
+      "venue": "Sanford Stadium",
       "city": "Athens",
       "state": "GA",
       "coordinates": {
@@ -1163,7 +1163,7 @@
     {
       "school": "Kentucky",
       "conference": "SEC",
-      "stadium": "Kroger Field",
+      "venue": "Kroger Field",
       "city": "Lexington",
       "state": "KY",
       "coordinates": {
@@ -1174,7 +1174,7 @@
     {
       "school": "LSU",
       "conference": "SEC",
-      "stadium": "Tiger Stadium",
+      "venue": "Tiger Stadium",
       "city": "Baton Rouge",
       "state": "LA",
       "coordinates": {
@@ -1185,7 +1185,7 @@
     {
       "school": "Mississippi State",
       "conference": "SEC",
-      "stadium": "Davis Wade Stadium at Scott Field",
+      "venue": "Davis Wade Stadium at Scott Field",
       "city": "Starkville",
       "state": "MS",
       "coordinates": {
@@ -1196,7 +1196,7 @@
     {
       "school": "Missouri",
       "conference": "SEC",
-      "stadium": "Faurot Field at Memorial Stadium",
+      "venue": "Faurot Field at Memorial Stadium",
       "city": "Columbia",
       "state": "MO",
       "coordinates": {
@@ -1207,7 +1207,7 @@
     {
       "school": "Ole Miss",
       "conference": "SEC",
-      "stadium": "Vaught-Hemingway Stadium",
+      "venue": "Vaught-Hemingway Stadium",
       "city": "Oxford",
       "state": "MS",
       "coordinates": {
@@ -1218,7 +1218,7 @@
     {
       "school": "South Carolina",
       "conference": "SEC",
-      "stadium": "Williams-Brice Stadium",
+      "venue": "Williams-Brice Stadium",
       "city": "Columbia",
       "state": "SC",
       "coordinates": {
@@ -1229,7 +1229,7 @@
     {
       "school": "Tennessee",
       "conference": "SEC",
-      "stadium": "Neyland Stadium",
+      "venue": "Neyland Stadium",
       "city": "Knoxville",
       "state": "TN",
       "coordinates": {
@@ -1240,7 +1240,7 @@
     {
       "school": "Texas A&M",
       "conference": "SEC",
-      "stadium": "Kyle Field",
+      "venue": "Kyle Field",
       "city": "College Station",
       "state": "TX",
       "coordinates": {
@@ -1251,7 +1251,7 @@
     {
       "school": "Vanderbilt",
       "conference": "SEC",
-      "stadium": "FirstBank Stadium",
+      "venue": "FirstBank Stadium",
       "city": "Nashville",
       "state": "TN",
       "coordinates": {
@@ -1262,7 +1262,7 @@
     {
       "school": "Appalachian State",
       "conference": "Sun Belt",
-      "stadium": "Kidd Brewer Stadium",
+      "venue": "Kidd Brewer Stadium",
       "city": "Boone",
       "state": "NC",
       "coordinates": {
@@ -1273,7 +1273,7 @@
     {
       "school": "Arkansas State",
       "conference": "Sun Belt",
-      "stadium": "Centennial Bank Stadium",
+      "venue": "Centennial Bank Stadium",
       "city": "Jonesboro",
       "state": "AR",
       "coordinates": {
@@ -1284,7 +1284,7 @@
     {
       "school": "Coastal Carolina",
       "conference": "Sun Belt",
-      "stadium": "Brooks Stadium",
+      "venue": "Brooks Stadium",
       "city": "Conway",
       "state": "SC",
       "coordinates": {
@@ -1295,7 +1295,7 @@
     {
       "school": "Georgia Southern",
       "conference": "Sun Belt",
-      "stadium": "Allen E. Paulson Stadium",
+      "venue": "Allen E. Paulson Stadium",
       "city": "Statesboro",
       "state": "GA",
       "coordinates": {
@@ -1306,7 +1306,7 @@
     {
       "school": "Georgia State",
       "conference": "Sun Belt",
-      "stadium": "Center Parc Credit Union Stadium",
+      "venue": "Center Parc Credit Union Stadium",
       "city": "Atlanta",
       "state": "GA",
       "coordinates": {
@@ -1317,7 +1317,7 @@
     {
       "school": "James Madison",
       "conference": "Sun Belt",
-      "stadium": "Bridgeforth Stadium",
+      "venue": "Bridgeforth Stadium",
       "city": "Harrisonburg",
       "state": "VA",
       "coordinates": {
@@ -1328,7 +1328,7 @@
     {
       "school": "Louisiana",
       "conference": "Sun Belt",
-      "stadium": "Cajun Field",
+      "venue": "Cajun Field",
       "city": "Lafayette",
       "state": "LA",
       "coordinates": {
@@ -1339,7 +1339,7 @@
     {
       "school": "Louisiana Monroe",
       "conference": "Sun Belt",
-      "stadium": "Malone Stadium",
+      "venue": "Malone Stadium",
       "city": "Monroe",
       "state": "LA",
       "coordinates": {
@@ -1350,7 +1350,7 @@
     {
       "school": "Marshall",
       "conference": "Sun Belt",
-      "stadium": "Joan C. Edwards Stadium",
+      "venue": "Joan C. Edwards Stadium",
       "city": "Huntington",
       "state": "WV",
       "coordinates": {
@@ -1361,7 +1361,7 @@
     {
       "school": "Old Dominion",
       "conference": "Sun Belt",
-      "stadium": "Kornblau Field at S.B. Ballard Stadium",
+      "venue": "Kornblau Field at S.B. Ballard Stadium",
       "city": "Norfolk",
       "state": "VA",
       "coordinates": {
@@ -1372,7 +1372,7 @@
     {
       "school": "South Alabama",
       "conference": "Sun Belt",
-      "stadium": "Hancock Whitney Stadium",
+      "venue": "Hancock Whitney Stadium",
       "city": "Mobile",
       "state": "AL",
       "coordinates": {
@@ -1383,7 +1383,7 @@
     {
       "school": "Southern Miss",
       "conference": "Sun Belt",
-      "stadium": "M.M. Roberts Stadium",
+      "venue": "M.M. Roberts Stadium",
       "city": "Hattiesburg",
       "state": "MS",
       "coordinates": {
@@ -1394,7 +1394,7 @@
     {
       "school": "Texas State",
       "conference": "Sun Belt",
-      "stadium": "Jim Wacker Field at Bobcat Stadium",
+      "venue": "Jim Wacker Field at Bobcat Stadium",
       "city": "San Marcos",
       "state": "TX",
       "coordinates": {
@@ -1405,7 +1405,7 @@
     {
       "school": "Troy",
       "conference": "Sun Belt",
-      "stadium": "Veterans Memorial Stadium",
+      "venue": "Veterans Memorial Stadium",
       "city": "Troy",
       "state": "AL",
       "coordinates": {
@@ -1416,7 +1416,7 @@
     {
       "school": "Army",
       "conference": "Independent",
-      "stadium": "Michie Stadium",
+      "venue": "Michie Stadium",
       "city": "West Point",
       "state": "NY",
       "coordinates": {
@@ -1427,7 +1427,7 @@
     {
       "school": "Connecticut",
       "conference": "Independent",
-      "stadium": "Rentschler Field",
+      "venue": "Rentschler Field",
       "city": "East Hartford",
       "state": "CT",
       "coordinates": {
@@ -1438,7 +1438,7 @@
     {
       "school": "Liberty",
       "conference": "Independent",
-      "stadium": "Williams Stadium",
+      "venue": "Williams Stadium",
       "city": "Lynchburg",
       "state": "VA",
       "coordinates": {
@@ -1449,7 +1449,7 @@
     {
       "school": "Kennesaw State",
       "conference": "Conference USA",
-      "stadium": "Fifth Third Bank Stadium",
+      "venue": "Fifth Third Bank Stadium",
       "city": "Kennesaw",
       "state": "GA",
       "coordinates": {

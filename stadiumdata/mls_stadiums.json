@@ -5,9 +5,10 @@
   "count": 30,
   "venues": [
     {
+      "png": "logos/mls/atlantaunited.png",
       "team": "Atlanta United FC",
       "conference": "Eastern",
-      "stadium": "Mercedes-Benz Stadium",
+      "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "state_province": "GA",
       "country": "USA",
@@ -17,9 +18,10 @@
       }
     },
     {
+      "png": "",
       "team": "Austin FC",
       "conference": "Western",
-      "stadium": "Q2 Stadium",
+      "venue": "Q2 Stadium",
       "city": "Austin",
       "state_province": "TX",
       "country": "USA",
@@ -29,9 +31,10 @@
       }
     },
     {
+      "png": "",
       "team": "Charlotte FC",
       "conference": "Eastern",
-      "stadium": "Bank of America Stadium",
+      "venue": "Bank of America Stadium",
       "city": "Charlotte",
       "state_province": "NC",
       "country": "USA",
@@ -41,9 +44,10 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago Fire FC",
       "conference": "Eastern",
-      "stadium": "Soldier Field",
+      "venue": "Soldier Field",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -53,9 +57,10 @@
       }
     },
     {
+      "png": "",
       "team": "FC Cincinnati",
       "conference": "Eastern",
-      "stadium": "TQL Stadium",
+      "venue": "TQL Stadium",
       "city": "Cincinnati",
       "state_province": "OH",
       "country": "USA",
@@ -65,9 +70,10 @@
       }
     },
     {
+      "png": "",
       "team": "Colorado Rapids",
       "conference": "Western",
-      "stadium": "Dick's Sporting Goods Park",
+      "venue": "Dick's Sporting Goods Park",
       "city": "Commerce City",
       "state_province": "CO",
       "country": "USA",
@@ -77,9 +83,10 @@
       }
     },
     {
+      "png": "",
       "team": "Columbus Crew",
       "conference": "Eastern",
-      "stadium": "Lower.com Field",
+      "venue": "Lower.com Field",
       "city": "Columbus",
       "state_province": "OH",
       "country": "USA",
@@ -89,9 +96,10 @@
       }
     },
     {
+      "png": "",
       "team": "D.C. United",
       "conference": "Eastern",
-      "stadium": "Audi Field",
+      "venue": "Audi Field",
       "city": "Washington",
       "state_province": "DC",
       "country": "USA",
@@ -101,9 +109,10 @@
       }
     },
     {
+      "png": "",
       "team": "FC Dallas",
       "conference": "Western",
-      "stadium": "Toyota Stadium",
+      "venue": "Toyota Stadium",
       "city": "Frisco",
       "state_province": "TX",
       "country": "USA",
@@ -113,9 +122,10 @@
       }
     },
     {
+      "png": "",
       "team": "Houston Dynamo FC",
       "conference": "Western",
-      "stadium": "Shell Energy Stadium",
+      "venue": "Shell Energy Stadium",
       "city": "Houston",
       "state_province": "TX",
       "country": "USA",
@@ -125,9 +135,10 @@
       }
     },
     {
+      "png": "",
       "team": "Inter Miami CF",
       "conference": "Eastern",
-      "stadium": "Chase Stadium",
+      "venue": "Chase Stadium",
       "city": "Fort Lauderdale",
       "state_province": "FL",
       "country": "USA",
@@ -137,9 +148,10 @@
       }
     },
     {
+      "png": "",
       "team": "Sporting Kansas City",
       "conference": "Western",
-      "stadium": "Sporting Park",
+      "venue": "Sporting Park",
       "city": "Kansas City",
       "state_province": "KS",
       "country": "USA",
@@ -149,9 +161,10 @@
       }
     },
     {
+      "png": "",
       "team": "LA Galaxy",
       "conference": "Western",
-      "stadium": "Dignity Health Sports Park",
+      "venue": "Dignity Health Sports Park",
       "city": "Carson",
       "state_province": "CA",
       "country": "USA",
@@ -161,9 +174,10 @@
       }
     },
     {
+      "png": "",
       "team": "LAFC",
       "conference": "Western",
-      "stadium": "BMO Stadium",
+      "venue": "BMO Stadium",
       "city": "Los Angeles",
       "state_province": "CA",
       "country": "USA",
@@ -173,9 +187,10 @@
       }
     },
     {
+      "png": "",
       "team": "Minnesota United FC",
       "conference": "Western",
-      "stadium": "Allianz Field",
+      "venue": "Allianz Field",
       "city": "St. Paul",
       "state_province": "MN",
       "country": "USA",
@@ -185,9 +200,10 @@
       }
     },
     {
+      "png": "",
       "team": "CF Montréal",
       "conference": "Eastern",
-      "stadium": "Saputo Stadium",
+      "venue": "Saputo Stadium",
       "city": "Montreal",
       "state_province": "QC",
       "country": "Canada",
@@ -197,9 +213,10 @@
       }
     },
     {
+      "png": "",
       "team": "Nashville SC",
       "conference": "Eastern",
-      "stadium": "Geodis Park",
+      "venue": "Geodis Park",
       "city": "Nashville",
       "state_province": "TN",
       "country": "USA",
@@ -209,9 +226,10 @@
       }
     },
     {
+      "png": "",
       "team": "New England Revolution",
       "conference": "Eastern",
-      "stadium": "Gillette Stadium",
+      "venue": "Gillette Stadium",
       "city": "Foxborough",
       "state_province": "MA",
       "country": "USA",
@@ -221,9 +239,10 @@
       }
     },
     {
+      "png": "",
       "team": "NY Red Bulls",
       "conference": "Eastern",
-      "stadium": "Sports Illustrated Stadium",
+      "venue": "Sports Illustrated Stadium",
       "city": "Harrison",
       "state_province": "NJ",
       "country": "USA",
@@ -233,9 +252,10 @@
       }
     },
     {
+      "png": "",
       "team": "New York City FC",
       "conference": "Eastern",
-      "stadium": "Yankee Stadium",
+      "venue": "Yankee Stadium",
       "city": "Bronx",
       "state_province": "NY",
       "country": "USA",
@@ -245,9 +265,10 @@
       }
     },
     {
+      "png": "",
       "team": "Orlando City SC",
       "conference": "Eastern",
-      "stadium": "Inter&Co Stadium",
+      "venue": "Inter&Co Stadium",
       "city": "Orlando",
       "state_province": "FL",
       "country": "USA",
@@ -257,9 +278,10 @@
       }
     },
     {
+      "png": "",
       "team": "Philadelphia Union",
       "conference": "Eastern",
-      "stadium": "Subaru Park",
+      "venue": "Subaru Park",
       "city": "Chester",
       "state_province": "PA",
       "country": "USA",
@@ -269,9 +291,10 @@
       }
     },
     {
+      "png": "",
       "team": "Portland Timbers",
       "conference": "Western",
-      "stadium": "Providence Park",
+      "venue": "Providence Park",
       "city": "Portland",
       "state_province": "OR",
       "country": "USA",
@@ -281,9 +304,10 @@
       }
     },
     {
+      "png": "",
       "team": "Real Salt Lake",
       "conference": "Western",
-      "stadium": "America First Field",
+      "venue": "America First Field",
       "city": "Sandy",
       "state_province": "UT",
       "country": "USA",
@@ -293,9 +317,10 @@
       }
     },
     {
+      "png": "",
       "team": "San Diego FC",
       "conference": "Western",
-      "stadium": "Snapdragon Stadium",
+      "venue": "Snapdragon Stadium",
       "city": "San Diego",
       "state_province": "CA",
       "country": "USA",
@@ -305,9 +330,10 @@
       }
     },
     {
+      "png": "",
       "team": "San Jose Earthquakes",
       "conference": "Western",
-      "stadium": "PayPal Park",
+      "venue": "PayPal Park",
       "city": "San Jose",
       "state_province": "CA",
       "country": "USA",
@@ -317,9 +343,10 @@
       }
     },
     {
+      "png": "",
       "team": "Seattle Sounders FC",
       "conference": "Western",
-      "stadium": "Lumen Field",
+      "venue": "Lumen Field",
       "city": "Seattle",
       "state_province": "WA",
       "country": "USA",
@@ -329,9 +356,10 @@
       }
     },
     {
+      "png": "",
       "team": "St. Louis City SC",
       "conference": "Western",
-      "stadium": "Energizer Park",
+      "venue": "Energizer Park",
       "city": "St. Louis",
       "state_province": "MO",
       "country": "USA",
@@ -341,9 +369,10 @@
       }
     },
     {
+      "png": "",
       "team": "Toronto FC",
       "conference": "Eastern",
-      "stadium": "BMO Field",
+      "venue": "BMO Field",
       "city": "Toronto",
       "state_province": "ON",
       "country": "Canada",
@@ -353,9 +382,10 @@
       }
     },
     {
+      "png": "",
       "team": "Vancouver Whitecaps FC",
       "conference": "Western",
-      "stadium": "BC Place",
+      "venue": "BC Place",
       "city": "Vancouver",
       "state_province": "BC",
       "country": "Canada",

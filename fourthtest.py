@@ -17,7 +17,8 @@ def load_all_leagues():
         df = pd.json_normalize(data[list_key])
         df = df.rename(columns={lat_col: 'lat', lon_col: 'lon', team_col: 'team', venue_col: 'venue'})
         df['league'] = league_name
-        return df[['league', 'team', 'venue', 'lat', 'lon']]
+        df['logo'] = df['png'] if 'png' in df.columns else None
+        return df[['league', 'team', 'venue', 'logo', 'lat', 'lon']]
 
     leagues = [
         ('stadiumdata/nba_stadiums.json',  'NBA'),
@@ -86,8 +87,15 @@ if run:
     st.subheader(f"Closest stadiums to **{team}** ({league})")
 
     for lg_name, group in results.groupby('league', observed=True):
-        for _, row in group.iterrows():
-            st.write(f"**{lg_name}:** {row['team']} | {row['venue']} | {row['distance_mi']} miles")
+        for _, r in group.iterrows():
+            img_col, text_col = st.columns([1, 16])
+            with img_col:
+                if pd.notna(r.get('logo')):
+                    st.image(r['logo'], width=64)
+                else:
+                    st.write("🏟️")
+            with text_col:
+                st.write(f"**{lg_name} |** {r['team']} | {r['venue']} | {r['distance_mi']} miles")
 
     # Optional: map of all selected results + reference team
     st.markdown("---")
@@ -97,4 +105,4 @@ if run:
         ref_point,
         map_results
     ]).rename(columns={'lat': 'latitude', 'lon': 'longitude'}).dropna(subset=['latitude', 'longitude'])
-    st.map(map_df, zoom=3)
+    st.map(map_df, zoom=6)

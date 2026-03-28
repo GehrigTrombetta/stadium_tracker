@@ -5,10 +5,11 @@
   "count": 32,
   "venues": [
     {
+      "png": "",
       "team": "Anaheim Ducks",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Honda Center",
+      "venue": "Honda Center",
       "city": "Anaheim",
       "state_province": "CA",
       "country": "USA",
@@ -18,10 +19,11 @@
       }
     },
     {
+      "png": "",
       "team": "Boston Bruins",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "TD Garden",
+      "venue": "TD Garden",
       "city": "Boston",
       "state_province": "MA",
       "country": "USA",
@@ -31,10 +33,11 @@
       }
     },
     {
+      "png": "",
       "team": "Buffalo Sabres",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "KeyBank Center",
+      "venue": "KeyBank Center",
       "city": "Buffalo",
       "state_province": "NY",
       "country": "USA",
@@ -44,10 +47,11 @@
       }
     },
     {
+      "png": "",
       "team": "Calgary Flames",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Scotiabank Saddledome",
+      "venue": "Scotiabank Saddledome",
       "city": "Calgary",
       "state_province": "AB",
       "country": "Canada",
@@ -57,10 +61,11 @@
       }
     },
     {
+      "png": "",
       "team": "Carolina Hurricanes",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Lenovo Center",
+      "venue": "Lenovo Center",
       "city": "Raleigh",
       "state_province": "NC",
       "country": "USA",
@@ -70,10 +75,11 @@
       }
     },
     {
+      "png": "",
       "team": "Chicago Blackhawks",
       "conference": "Western",
       "division": "Central",
-      "arena": "United Center",
+      "venue": "United Center",
       "city": "Chicago",
       "state_province": "IL",
       "country": "USA",
@@ -83,10 +89,11 @@
       }
     },
     {
+      "png": "",
       "team": "Colorado Avalanche",
       "conference": "Western",
       "division": "Central",
-      "arena": "Ball Arena",
+      "venue": "Ball Arena",
       "city": "Denver",
       "state_province": "CO",
       "country": "USA",
@@ -96,10 +103,11 @@
       }
     },
     {
+      "png": "",
       "team": "Columbus Blue Jackets",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Nationwide Arena",
+      "venue": "Nationwide Arena",
       "city": "Columbus",
       "state_province": "OH",
       "country": "USA",
@@ -109,10 +117,11 @@
       }
     },
     {
+      "png": "",
       "team": "Dallas Stars",
       "conference": "Western",
       "division": "Central",
-      "arena": "American Airlines Center",
+      "venue": "American Airlines Center",
       "city": "Dallas",
       "state_province": "TX",
       "country": "USA",
@@ -122,10 +131,11 @@
       }
     },
     {
+      "png": "",
       "team": "Detroit Red Wings",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Little Caesars Arena",
+      "venue": "Little Caesars Arena",
       "city": "Detroit",
       "state_province": "MI",
       "country": "USA",
@@ -135,10 +145,11 @@
       }
     },
     {
+      "png": "",
       "team": "Edmonton Oilers",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Rogers Place",
+      "venue": "Rogers Place",
       "city": "Edmonton",
       "state_province": "AB",
       "country": "Canada",
@@ -148,10 +159,11 @@
       }
     },
     {
+      "png": "",
       "team": "Florida Panthers",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Amerant Bank Arena",
+      "venue": "Amerant Bank Arena",
       "city": "Sunrise",
       "state_province": "FL",
       "country": "USA",
@@ -161,10 +173,11 @@
       }
     },
     {
+      "png": "",
       "team": "Los Angeles Kings",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Crypto.com Arena",
+      "venue": "Crypto.com Arena",
       "city": "Los Angeles",
       "state_province": "CA",
       "country": "USA",
@@ -174,10 +187,11 @@
       }
     },
     {
+      "png": "",
       "team": "Minnesota Wild",
       "conference": "Western",
       "division": "Central",
-      "arena": "Grand Casino Arena",
+      "venue": "Grand Casino Arena",
       "city": "St. Paul",
       "state_province": "MN",
       "country": "USA",
@@ -187,10 +201,11 @@
       }
     },
     {
+      "png": "",
       "team": "Montreal Canadiens",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Bell Centre",
+      "venue": "Bell Centre",
       "city": "Montreal",
       "state_province": "QC",
       "country": "Canada",
@@ -200,10 +215,11 @@
       }
     },
     {
+      "png": "logos/nhl/nashvillepredators.svg",
       "team": "Nashville Predators",
       "conference": "Western",
       "division": "Central",
-      "arena": "Bridgestone Arena",
+      "venue": "Bridgestone Arena",
       "city": "Nashville",
       "state_province": "TN",
       "country": "USA",
@@ -213,10 +229,11 @@
       }
     },
     {
+      "png": "",
       "team": "New Jersey Devils",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Prudential Center",
+      "venue": "Prudential Center",
       "city": "Newark",
       "state_province": "NJ",
       "country": "USA",
@@ -226,10 +243,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Islanders",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "UBS Arena",
+      "venue": "UBS Arena",
       "city": "Elmont",
       "state_province": "NY",
       "country": "USA",
@@ -239,10 +257,11 @@
       }
     },
     {
+      "png": "",
       "team": "New York Rangers",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Madison Square Garden",
+      "venue": "Madison Square Garden",
       "city": "New York",
       "state_province": "NY",
       "country": "USA",
@@ -252,10 +271,11 @@
       }
     },
     {
+      "png": "",
       "team": "Ottawa Senators",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Canadian Tire Centre",
+      "venue": "Canadian Tire Centre",
       "city": "Ottawa",
       "state_province": "ON",
       "country": "Canada",
@@ -265,10 +285,11 @@
       }
     },
     {
+      "png": "",
       "team": "Philadelphia Flyers",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Xfinity Mobile Arena",
+      "venue": "Xfinity Mobile Arena",
       "city": "Philadelphia",
       "state_province": "PA",
       "country": "USA",
@@ -278,10 +299,11 @@
       }
     },
     {
+      "png": "",
       "team": "Pittsburgh Penguins",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "PPG Paints Arena",
+      "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state_province": "PA",
       "country": "USA",
@@ -291,10 +313,11 @@
       }
     },
     {
+      "png": "",
       "team": "San Jose Sharks",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "SAP Center",
+      "venue": "SAP Center",
       "city": "San Jose",
       "state_province": "CA",
       "country": "USA",
@@ -304,10 +327,11 @@
       }
     },
     {
+      "png": "",
       "team": "Seattle Kraken",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Climate Pledge Arena",
+      "venue": "Climate Pledge Arena",
       "city": "Seattle",
       "state_province": "WA",
       "country": "USA",
@@ -317,10 +341,11 @@
       }
     },
     {
+      "png": "",
       "team": "St. Louis Blues",
       "conference": "Western",
       "division": "Central",
-      "arena": "Enterprise Center",
+      "venue": "Enterprise Center",
       "city": "St. Louis",
       "state_province": "MO",
       "country": "USA",
@@ -330,10 +355,11 @@
       }
     },
     {
+      "png": "",
       "team": "Tampa Bay Lightning",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Benchmark International Arena",
+      "venue": "Benchmark International Arena",
       "city": "Tampa",
       "state_province": "FL",
       "country": "USA",
@@ -343,10 +369,11 @@
       }
     },
     {
+      "png": "",
       "team": "Toronto Maple Leafs",
       "conference": "Eastern",
       "division": "Atlantic",
-      "arena": "Scotiabank Arena",
+      "venue": "Scotiabank Arena",
       "city": "Toronto",
       "state_province": "ON",
       "country": "Canada",
@@ -356,10 +383,11 @@
       }
     },
     {
+      "png": "",
       "team": "Utah Mammoth",
       "conference": "Western",
       "division": "Central",
-      "arena": "Delta Center",
+      "venue": "Delta Center",
       "city": "Salt Lake City",
       "state_province": "UT",
       "country": "USA",
@@ -369,10 +397,11 @@
       }
     },
     {
+      "png": "",
       "team": "Vancouver Canucks",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "Rogers Arena",
+      "venue": "Rogers Arena",
       "city": "Vancouver",
       "state_province": "BC",
       "country": "Canada",
@@ -382,10 +411,11 @@
       }
     },
     {
+      "png": "",
       "team": "Vegas Golden Knights",
       "conference": "Western",
       "division": "Pacific",
-      "arena": "T-Mobile Arena",
+      "venue": "T-Mobile Arena",
       "city": "Las Vegas",
       "state_province": "NV",
       "country": "USA",
@@ -395,10 +425,11 @@
       }
     },
     {
+      "png": "",
       "team": "Washington Capitals",
       "conference": "Eastern",
       "division": "Metropolitan",
-      "arena": "Capital One Arena",
+      "venue": "Capital One Arena",
       "city": "Washington",
       "state_province": "DC",
       "country": "USA",
@@ -408,10 +439,11 @@
       }
     },
     {
+      "png": "",
       "team": "Winnipeg Jets",
       "conference": "Western",
       "division": "Central",
-      "arena": "Canada Life Centre",
+      "venue": "Canada Life Centre",
       "city": "Winnipeg",
       "state_province": "MB",
       "country": "Canada",
