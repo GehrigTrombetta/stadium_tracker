@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZCiy87Lz)
 # IST 356 Final Project: Stadium Finder
 
 Student Name(s): Gehrig Trombetta
@@ -19,6 +18,10 @@ This is an interactive Streamlit app that finds the closest sports venues to a s
 
 1. Now install the required packages by running:
 
+```bash
+   pip install -e .
+```
+and
 ```bash
    pip install -r requirements.txt
 ```
