@@ -56,8 +56,8 @@
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 42.7738,
-        "longitude": -78.787
+        "latitude": 42.7731,
+        "longitude": -78.7922
       }
     },
     {
@@ -177,7 +177,7 @@
       "team": "Houston Texans",
       "conference": "AFC",
       "division": "South",
-      "venue": "NRG Stadium",
+      "venue": "Reliant Stadium",
       "city": "Houston",
       "state_province": "TX",
       "country": "USA",
@@ -219,7 +219,7 @@
       "team": "Kansas City Chiefs",
       "conference": "AFC",
       "division": "West",
-      "venue": "Arrowhead Stadium",
+      "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City",
       "state_province": "MO",
       "country": "USA",
@@ -429,13 +429,13 @@
       "team": "Tennessee Titans",
       "conference": "AFC",
       "division": "South",
-      "venue": "Nissan Stadium",
+      "venue": "Nissan Stadium*",
       "city": "Nashville",
       "state_province": "TN",
       "country": "USA",
       "coordinates": {
-        "latitude": 36.1665,
-        "longitude": -86.7713
+        "latitude": 36.1677,
+        "longitude": -86.7681
       }
     },
     {

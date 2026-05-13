@@ -184,7 +184,7 @@ def main():
             state   = st.text_input("State", placeholder="e.g. NY")
             zipcode = st.text_input("Zip Code", placeholder="e.g. 13210")
 
-        n_input = st.slider("Closest teams per league", min_value=1, max_value=5, value=st.session_state.n)
+        n_input = st.slider("Closest teams per league", min_value=1, max_value=32, value=st.session_state.n)
         st.markdown("#### ⛹ Pick leagues")
         selected_leagues_input_raw = st.multiselect(
             "Show leagues",
@@ -261,7 +261,7 @@ def main():
             teams = sorted(lg.loc[lg['league'] == league, 'team'].tolist())
             team  = st.selectbox("Team", teams)
 
-        n_input = st.slider("Closest teams per league", min_value=1, max_value=5, value=st.session_state.n)
+        n_input = st.slider("Closest teams per league", min_value=1, max_value=32, value=st.session_state.n)
         st.markdown("#### ⛹ Pick leagues")
         selected_leagues_input_raw = st.multiselect(
             "Show leagues",

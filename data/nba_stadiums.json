@@ -1,8 +1,8 @@
 {
   "league": "NBA",
-  "season": "2025-26",
-  "generated": "2026-03-19",
-  "count": 30,
+  "season": "2028-29",
+  "generated": "2026-05-13",
+  "count": 32,
   "venues": [
     {
       "png": "logos/nba/atlantahawks.png",
@@ -15,7 +15,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 33.7573,
-        "longitude": -84.3963
+        "longitude": -84.3964
       }
     },
     {
@@ -28,8 +28,8 @@
       "state_province": "MA",
       "country": "USA",
       "coordinates": {
-        "latitude": 42.3662,
-        "longitude": -71.0621
+        "latitude": 42.3663,
+        "longitude": -71.0622
       }
     },
     {
@@ -42,8 +42,8 @@
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 40.6826,
-        "longitude": -73.9754
+        "latitude": 40.6827,
+        "longitude": -73.9747
       }
     },
     {
@@ -84,8 +84,8 @@
       "state_province": "OH",
       "country": "USA",
       "coordinates": {
-        "latitude": 41.4965,
-        "longitude": -81.6882
+        "latitude": 41.4964,
+        "longitude": -81.6881
       }
     },
     {
@@ -98,7 +98,7 @@
       "state_province": "TX",
       "country": "USA",
       "coordinates": {
-        "latitude": 32.7905,
+        "latitude": 32.7906,
         "longitude": -96.8103
       }
     },
@@ -112,8 +112,8 @@
       "state_province": "CO",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.7487,
-        "longitude": -105.0077
+        "latitude": 39.7486,
+        "longitude": -105.0075
       }
     },
     {
@@ -126,7 +126,7 @@
       "state_province": "MI",
       "country": "USA",
       "coordinates": {
-        "latitude": 42.341,
+        "latitude": 42.3411,
         "longitude": -83.0553
       }
     },
@@ -140,8 +140,8 @@
       "state_province": "CA",
       "country": "USA",
       "coordinates": {
-        "latitude": 37.768,
-        "longitude": -122.3878
+        "latitude": 37.7681,
+        "longitude": -122.3875
       }
     },
     {
@@ -154,8 +154,8 @@
       "state_province": "TX",
       "country": "USA",
       "coordinates": {
-        "latitude": 29.7509,
-        "longitude": -95.3621
+        "latitude": 29.7508,
+        "longitude": -95.3622
       }
     },
     {
@@ -169,7 +169,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 39.7639,
-        "longitude": -86.1558
+        "longitude": -86.1556
       }
     },
     {
@@ -182,8 +182,8 @@
       "state_province": "CA",
       "country": "USA",
       "coordinates": {
-        "latitude": 33.9438,
-        "longitude": -118.3426
+        "latitude": 33.9451,
+        "longitude": -118.3431
       }
     },
     {
@@ -197,7 +197,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 34.0431,
-        "longitude": -118.2676
+        "longitude": -118.2672
       }
     },
     {
@@ -211,7 +211,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 35.1383,
-        "longitude": -90.0505
+        "longitude": -90.0506
       }
     },
     {
@@ -225,7 +225,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 25.7814,
-        "longitude": -80.187
+        "longitude": -80.1881
       }
     },
     {
@@ -238,14 +238,14 @@
       "state_province": "WI",
       "country": "USA",
       "coordinates": {
-        "latitude": 43.0451,
-        "longitude": -87.917
+        "latitude": 43.0436,
+        "longitude": -87.9169
       }
     },
     {
       "png": "",
       "team": "Minnesota Timberwolves",
-      "conference": "Western",
+      "conference": "Eastern",
       "division": "Northwest",
       "venue": "Target Center",
       "city": "Minneapolis",
@@ -253,7 +253,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 44.9796,
-        "longitude": -93.2766
+        "longitude": -93.2761
       }
     },
     {
@@ -266,8 +266,8 @@
       "state_province": "LA",
       "country": "USA",
       "coordinates": {
-        "latitude": 29.949,
-        "longitude": -90.082
+        "latitude": 29.9489,
+        "longitude": -90.0819
       }
     },
     {
@@ -280,8 +280,8 @@
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 40.7505,
-        "longitude": -73.9934
+        "latitude": 40.7506,
+        "longitude": -73.9936
       }
     },
     {
@@ -294,7 +294,7 @@
       "state_province": "OK",
       "country": "USA",
       "coordinates": {
-        "latitude": 35.4634,
+        "latitude": 35.4633,
         "longitude": -97.5151
       }
     },
@@ -309,7 +309,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 28.5392,
-        "longitude": -81.3839
+        "longitude": -81.3836
       }
     },
     {
@@ -317,13 +317,13 @@
       "team": "Philadelphia 76ers",
       "conference": "Eastern",
       "division": "Atlantic",
-      "venue": "Wells Fargo Center",
+      "venue": "Xfinity Mobile Arena",
       "city": "Philadelphia",
       "state_province": "PA",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.9012,
-        "longitude": -75.172
+        "latitude": 39.9011,
+        "longitude": -75.1719
       }
     },
     {
@@ -336,7 +336,7 @@
       "state_province": "AZ",
       "country": "USA",
       "coordinates": {
-        "latitude": 33.446,
+        "latitude": 33.4458,
         "longitude": -112.0714
       }
     },
@@ -350,8 +350,8 @@
       "state_province": "OR",
       "country": "USA",
       "coordinates": {
-        "latitude": 45.5316,
-        "longitude": -122.6668
+        "latitude": 45.5317,
+        "longitude": -122.6667
       }
     },
     {
@@ -364,8 +364,8 @@
       "state_province": "CA",
       "country": "USA",
       "coordinates": {
-        "latitude": 38.5805,
-        "longitude": -121.4993
+        "latitude": 38.6492,
+        "longitude": -121.5181
       }
     },
     {
@@ -378,7 +378,7 @@
       "state_province": "TX",
       "country": "USA",
       "coordinates": {
-        "latitude": 29.427,
+        "latitude": 29.4269,
         "longitude": -98.4375
       }
     },
@@ -392,8 +392,8 @@
       "state_province": "ON",
       "country": "Canada",
       "coordinates": {
-        "latitude": 43.6435,
-        "longitude": -79.3791
+        "latitude": 43.6433,
+        "longitude": -79.3792
       }
     },
     {
@@ -421,7 +421,35 @@
       "country": "USA",
       "coordinates": {
         "latitude": 38.8981,
-        "longitude": -77.0209
+        "longitude": -77.0208
+      }
+    },
+    {
+      "png": "",
+      "team": "Seattle SuperSonics* ",
+      "conference": "Western",
+      "division": "Southeast",
+      "venue": "Climate Pledge Arena",
+      "city": "Seattle",
+      "state_province": "WA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 47.6222,
+        "longitude": -122.3542
+      }
+    },
+    {
+      "png": "",
+      "team": "Las Vegas NBA Team*",
+      "conference": "Western",
+      "division": "Southeast",
+      "venue": "T-Mobile Arena",
+      "city": "Las Vegas",
+      "state_province": "NV",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 36.1028,
+        "longitude": -115.1784
       }
     }
   ]

@@ -28,8 +28,8 @@
       "state_province": "MA",
       "country": "USA",
       "coordinates": {
-        "latitude": 42.3662,
-        "longitude": -71.0621
+        "latitude": 42.3663,
+        "longitude": -71.0622
       }
     },
     {
@@ -98,8 +98,8 @@
       "state_province": "CO",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.7487,
-        "longitude": -105.0077
+        "latitude": 39.7486,
+        "longitude": -105.0075
       }
     },
     {
@@ -126,7 +126,7 @@
       "state_province": "TX",
       "country": "USA",
       "coordinates": {
-        "latitude": 32.7905,
+        "latitude": 32.7906,
         "longitude": -96.8103
       }
     },
@@ -140,7 +140,7 @@
       "state_province": "MI",
       "country": "USA",
       "coordinates": {
-        "latitude": 42.341,
+        "latitude": 42.3411,
         "longitude": -83.0553
       }
     },
@@ -183,7 +183,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 34.0431,
-        "longitude": -118.2676
+        "longitude": -118.2672
       }
     },
     {
@@ -266,8 +266,8 @@
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 40.7505,
-        "longitude": -73.9934
+        "latitude": 40.7506,
+        "longitude": -73.9936
       }
     },
     {
@@ -294,8 +294,8 @@
       "state_province": "PA",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.9012,
-        "longitude": -75.172
+        "latitude": 39.9011,
+        "longitude": -75.1719
       }
     },
     {
@@ -378,8 +378,8 @@
       "state_province": "ON",
       "country": "Canada",
       "coordinates": {
-        "latitude": 43.6435,
-        "longitude": -79.3791
+        "latitude": 43.6433,
+        "longitude": -79.3792
       }
     },
     {
@@ -435,7 +435,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 38.8981,
-        "longitude": -77.0209
+        "longitude": -77.0208
       }
     },
     {

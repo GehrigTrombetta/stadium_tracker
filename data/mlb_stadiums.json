@@ -272,16 +272,16 @@
     },
     {
       "png": "",
-      "team": "Athletics",
+      "team": "Las Vegas Athletics*",
       "conference": "AL",
       "division": "West",
-      "venue": "Sutter Health Park",
-      "city": "West Sacramento",
-      "state_province": "CA",
+      "venue": "New Las Vegas Stadium",
+      "city": "Paradise",
+      "state_province": "NV",
       "country": "USA",
       "coordinates": {
-        "latitude": 38.5804,
-        "longitude": -121.5138
+        "latitude": 36.0994,
+        "longitude": -115.1700
       }
     },
     {

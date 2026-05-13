@@ -1,8 +1,8 @@
 {
   "league": "WNBA",
-  "season": "2026",
-  "generated": "2026-03-19",
-  "count": 15,
+  "season": "2027",
+  "generated": "2026-5-13",
+  "count": 18,
   "venues": [
     {
       "png": "logos/wnba/atlantadream.png",
@@ -32,15 +32,15 @@
     },
     {
       "png": "",
-      "team": "Connecticut Sun",
-      "conference": "Eastern",
-      "venue": "Mohegan Sun Arena",
-      "city": "Uncasville",
-      "state_province": "CT",
+      "team": "Houston Comets*",
+      "conference": "Western",
+      "venue": "Toyota Center",
+      "city": "Houston",
+      "state_province": "TX",
       "country": "USA",
       "coordinates": {
-        "latitude": 41.4911,
-        "longitude": -72.0897
+        "latitude": 29.7508,
+        "longitude": -95.3622
       }
     },
     {
@@ -53,7 +53,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 39.7639,
-        "longitude": -86.1558
+        "longitude": -86.1556
       }
     },
     {
@@ -65,8 +65,8 @@
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 40.6818,
-        "longitude": -73.975
+       "latitude": 40.6827,
+        "longitude": -73.9747
       }
     },
     {
@@ -117,8 +117,8 @@
       "state_province": "CA",
       "country": "USA",
       "coordinates": {
-        "latitude": 37.768,
-        "longitude": -122.3878
+        "latitude": 37.7681,
+        "longitude": -122.3875
       }
     },
     {
@@ -144,7 +144,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 34.0431,
-        "longitude": -118.2676
+        "longitude": -118.2672
       }
     },
     {
@@ -157,7 +157,7 @@
       "country": "USA",
       "coordinates": {
         "latitude": 44.9796,
-        "longitude": -93.2766
+        "longitude": -93.2761
       }
     },
     {
@@ -169,7 +169,7 @@
       "state_province": "AZ",
       "country": "USA",
       "coordinates": {
-        "latitude": 33.446,
+        "latitude": 33.4458,
         "longitude": -112.0714
       }
     },
@@ -182,8 +182,8 @@
       "state_province": "OR",
       "country": "USA",
       "coordinates": {
-        "latitude": 45.5316,
-        "longitude": -122.6668
+        "latitude": 45.5317,
+        "longitude": -122.6667
       }
     },
     {
@@ -197,6 +197,45 @@
       "coordinates": {
         "latitude": 47.6222,
         "longitude": -122.3542
+      }
+    },
+    {
+      "png": "",
+      "team": "Cleveland Rockers*",
+      "conference": "Eastern",
+      "venue": "Rocket Arena",
+      "city": "Cleveland",
+      "state_province": "OH",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.4964,
+        "longitude": -81.6881
+      }
+    },
+    {
+      "png": "",
+      "team": "Detriot Shock*",
+      "conference": "Eastern",
+      "venue": "Little Caesars Arena",
+      "city": "Detroit",
+      "state_province": "MI",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 42.3411,
+        "longitude": -83.0553
+      }
+    },
+    {
+      "png": "",
+      "team": "Philadelpia WNBA Team*",
+      "conference": "Eastern",
+      "venue": "New South Philadelphia Arena",
+      "city": "Philadelphia",
+      "state_province": "PA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.9521,
+        "longitude": -75.1566
       }
     }
   ]

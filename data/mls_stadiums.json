@@ -1,7 +1,7 @@
 {
   "league": "MLS",
-  "season": "2025",
-  "generated": "2026-03-19",
+  "season": "2027",
+  "generated": "2026-05-13",
   "count": 30,
   "venues": [
     {
@@ -86,13 +86,13 @@
       "png": "",
       "team": "Columbus Crew",
       "conference": "Eastern",
-      "venue": "Lower.com Field",
+      "venue": "ScottsMiracle-Gro Field",
       "city": "Columbus",
       "state_province": "OH",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.9686,
-        "longitude": -83.0183
+        "latitude": 39.9685,
+        "longitude": -83.0171
       }
     },
     {
@@ -138,13 +138,13 @@
       "png": "",
       "team": "Inter Miami CF",
       "conference": "Eastern",
-      "venue": "Chase Stadium",
-      "city": "Fort Lauderdale",
+      "venue": "Nu Stadium",
+      "city": "Miami",
       "state_province": "FL",
       "country": "USA",
       "coordinates": {
-        "latitude": 26.1924,
-        "longitude": -80.139
+        "latitude": 25.7931,
+        "longitude": -80.2593
       }
     },
     {
@@ -156,8 +156,8 @@
       "state_province": "KS",
       "country": "USA",
       "coordinates": {
-        "latitude": 39.122,
-        "longitude": -94.8238
+        "latitude": 39.1217,
+        "longitude": -94.8232
       }
     },
     {
@@ -253,15 +253,15 @@
     },
     {
       "png": "",
-      "team": "New York City FC",
+      "team": "New York City FC*",
       "conference": "Eastern",
-      "venue": "Yankee Stadium",
-      "city": "Bronx",
+      "venue": "Etihad Park",
+      "city": "Queens",
       "state_province": "NY",
       "country": "USA",
       "coordinates": {
-        "latitude": 40.8296,
-        "longitude": -73.9262
+        "latitude": 40.7581,
+        "longitude": -73.8433
       }
     },
     {
