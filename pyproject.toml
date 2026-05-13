@@ -1,0 +1,7 @@
+[project]
+name = "finalproject"
+description = "My Final Project for IST 356"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["finalproject"]

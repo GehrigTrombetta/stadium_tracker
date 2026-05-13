@@ -1,0 +1,203 @@
+{
+  "league": "WNBA",
+  "season": "2026",
+  "generated": "2026-03-19",
+  "count": 15,
+  "venues": [
+    {
+      "png": "logos/wnba/atlantadream.png",
+      "team": "Atlanta Dream",
+      "conference": "Eastern",
+      "venue": "Gateway Center Arena",
+      "city": "College Park",
+      "state_province": "GA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.6468,
+        "longitude": -84.4596
+      }
+    },
+    {
+      "png": "",
+      "team": "Chicago Sky",
+      "conference": "Eastern",
+      "venue": "Wintrust Arena",
+      "city": "Chicago",
+      "state_province": "IL",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.8537,
+        "longitude": -87.6214
+      }
+    },
+    {
+      "png": "",
+      "team": "Connecticut Sun",
+      "conference": "Eastern",
+      "venue": "Mohegan Sun Arena",
+      "city": "Uncasville",
+      "state_province": "CT",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 41.4911,
+        "longitude": -72.0897
+      }
+    },
+    {
+      "png": "",
+      "team": "Indiana Fever",
+      "conference": "Eastern",
+      "venue": "Gainbridge Fieldhouse",
+      "city": "Indianapolis",
+      "state_province": "IN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 39.7639,
+        "longitude": -86.1558
+      }
+    },
+    {
+      "png": "",
+      "team": "New York Liberty",
+      "conference": "Eastern",
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state_province": "NY",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 40.6818,
+        "longitude": -73.975
+      }
+    },
+    {
+      "png": "",
+      "team": "Toronto Tempo",
+      "conference": "Eastern",
+      "venue": "Coca-Cola Coliseum",
+      "city": "Toronto",
+      "state_province": "ON",
+      "country": "Canada",
+      "coordinates": {
+        "latitude": 43.6351,
+        "longitude": -79.4157
+      }
+    },
+    {
+      "png": "",
+      "team": "Washington Mystics",
+      "conference": "Eastern",
+      "venue": "CareFirst Arena",
+      "city": "Washington",
+      "state_province": "DC",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 38.8454,
+        "longitude": -76.9956
+      }
+    },
+    {
+      "png": "",
+      "team": "Dallas Wings",
+      "conference": "Western",
+      "venue": "College Park Center",
+      "city": "Arlington",
+      "state_province": "TX",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 32.7306,
+        "longitude": -97.108
+      }
+    },
+    {
+      "png": "",
+      "team": "Golden State Valkyries",
+      "conference": "Western",
+      "venue": "Chase Center",
+      "city": "San Francisco",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 37.768,
+        "longitude": -122.3878
+      }
+    },
+    {
+      "png": "",
+      "team": "Las Vegas Aces",
+      "conference": "Western",
+      "venue": "Michelob Ultra Arena",
+      "city": "Paradise",
+      "state_province": "NV",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 36.0906,
+        "longitude": -115.1791
+      }
+    },
+    {
+      "png": "",
+      "team": "Los Angeles Sparks",
+      "conference": "Western",
+      "venue": "Crypto.com Arena",
+      "city": "Los Angeles",
+      "state_province": "CA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 34.0431,
+        "longitude": -118.2676
+      }
+    },
+    {
+      "png": "",
+      "team": "Minnesota Lynx",
+      "conference": "Western",
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "state_province": "MN",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 44.9796,
+        "longitude": -93.2766
+      }
+    },
+    {
+      "png": "",
+      "team": "Phoenix Mercury",
+      "conference": "Western",
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "state_province": "AZ",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 33.446,
+        "longitude": -112.0714
+      }
+    },
+    {
+      "png": "",
+      "team": "Portland Fire",
+      "conference": "Western",
+      "venue": "Moda Center",
+      "city": "Portland",
+      "state_province": "OR",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 45.5316,
+        "longitude": -122.6668
+      }
+    },
+    {
+      "png": "",
+      "team": "Seattle Storm",
+      "conference": "Western",
+      "venue": "Climate Pledge Arena",
+      "city": "Seattle",
+      "state_province": "WA",
+      "country": "USA",
+      "coordinates": {
+        "latitude": 47.6222,
+        "longitude": -122.3542
+      }
+    }
+  ]
+}
